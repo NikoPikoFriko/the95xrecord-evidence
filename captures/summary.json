@@ -8,6 +8,11 @@
   "1RC191003776",
   "CAAP-26-0000625"
  ],
+ "corrected_sha256": [
+  "267462accd55e8f6788ab93cc1439f35e529592ce437f543ec8a87c977581a13",
+  "27369ac930c946fe20679a887dfcfcc96ec73b59a7396f096d33d8adc939441f"
+ ],
+ "corrections": 2,
  "count": 29,
  "ledger": "captures/ledger.jsonl",
  "ledger_bytes": 19688,

@@ -1,0 +1,35 @@
+{
+ "corrections": [
+  {
+   "basis": "page-1 case number on the document itself, and the published catalogue row for this sha256",
+   "corrected": "CAAP-26-0000625",
+   "corrected_at": "2026-11-03T21:01:19-10:00",
+   "corrected_docket": "20",
+   "document": "29-OCT-2026__CAAP-26-0000625__DKT__DKT0020-NEF__notice-of-electronic-filing__CERT__h267462accd55.pdf",
+   "field": "identity.case",
+   "ledger_line_unchanged": true,
+   "method": "catalogue cross-check of receipt.case_recorded; no byte was re-read, nothing was inferred",
+   "receipt_path": "receipts/267462accd55e8f6788ab93cc1439f35e529592ce437f543ec8a87c977581a13.json",
+   "recorded": "1RC191003776",
+   "recorded_docket": "ICA",
+   "sha256": "267462accd55e8f6788ab93cc1439f35e529592ce437f543ec8a87c977581a13"
+  },
+  {
+   "basis": "page-1 case number on the document itself, and the published catalogue row for this sha256",
+   "corrected": "CAAP-26-0000625",
+   "corrected_at": "2026-11-03T21:01:19-10:00",
+   "corrected_docket": "12",
+   "document": "07-OCT-2026__CAAP-26-0000625__DKT__DKT0012-NEF__notice-of-electronic-filing__SRC__h27369ac930c9.pdf",
+   "field": "identity.case",
+   "ledger_line_unchanged": true,
+   "method": "catalogue cross-check of receipt.case_recorded; no byte was re-read, nothing was inferred",
+   "receipt_path": "receipts/27369ac930c946fe20679a887dfcfcc96ec73b59a7396f096d33d8adc939441f.json",
+   "recorded": "1RC191003776",
+   "recorded_docket": "ICA",
+   "sha256": "27369ac930c946fe20679a887dfcfcc96ec73b59a7396f096d33d8adc939441f"
+  }
+ ],
+ "count": 2,
+ "note": "The capture ledger is append-only, so a wrongly recorded identity is never rewritten. A correction is published here beside it: the ledger line keeps what the capture recorded, and this file states what the document actually is, on what basis, and by what method.",
+ "schema": "evidence-capture-corrections/1"
+}
