@@ -57,8 +57,10 @@
   }
  ],
  "supersedes": {
-  "reason": "FIX-FIELD filed_recorded: '08-OCT-2026' -> '23-AUG-2019' (audit R12; page-1 stamp and COURT_MASTER_WORKLIST)",
-  "previous_receipt_sha256": "e6bce6954b064202d2020dbd9f3fd1bb040673f585be389fdbfca979c751fbc1",
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "efb2e1c9e14211caa4f590b3b24bfe3ed33d50fd70d992c0fde3b054d336d77a",
   "previous_receipt_path": "receipts/8841f216e4d223e458606fba7553bd448277c6ada85b167d41929e8cc08c93d8.json"
- }
+ },
+ "publication_view_sha256": "2119ae5a8d34e0be2431891d505f3c634dc939ddf0799eb7480eb4f400d747e5",
+ "view_pin_verified": true
 }

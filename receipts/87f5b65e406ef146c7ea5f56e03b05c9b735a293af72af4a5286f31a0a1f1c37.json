@@ -38,5 +38,12 @@
   "chrome_row": "no matching downloads row (profile other than Default, or history cleared)",
   "usn_row": "no usn match",
   "source_host": "jimspss1.courts.state.hi.us"
- }
+ },
+ "publication_view_sha256": "2119ae5a8d34e0be2431891d505f3c634dc939ddf0799eb7480eb4f400d747e5",
+ "supersedes": {
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "a3f2ed063099342a3d5bf0d0d6759f8bf270a0ce11e7d0a876a3dc633ec3b49a",
+  "previous_receipt_path": "receipts/87f5b65e406ef146c7ea5f56e03b05c9b735a293af72af4a5286f31a0a1f1c37.json"
+ },
+ "view_pin_verified": true
 }

@@ -48,9 +48,10 @@
   "audit_note": "T60 clean list; NUL stripped from court_url per K13"
  },
  "supersedes": {
-  "reason": "the previously published receipt omitted the capture timestamp",
-  "previous_receipt_sha256": "ae0380238d8ecbcac3090a06a7710aba0390ec71f18f5dcbaddb43ef107c4ff4",
-  "previous_receipt_path": "receipts/03b554f572a0afafcbb7bc606be342c8c36699cb3063aaa2fe48d9ac074ad09f.json",
-  "applied_at": "2026-11-03T22:34:56.378357-10:00"
- }
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "ed222efcf80992527ff45bf6ab607f0152aeb7971d1ff09c8f5e976d647a4da6",
+  "previous_receipt_path": "receipts/03b554f572a0afafcbb7bc606be342c8c36699cb3063aaa2fe48d9ac074ad09f.json"
+ },
+ "publication_view_sha256": "2119ae5a8d34e0be2431891d505f3c634dc939ddf0799eb7480eb4f400d747e5",
+ "view_pin_verified": true
 }

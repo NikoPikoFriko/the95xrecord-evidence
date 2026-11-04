@@ -51,12 +51,13 @@
   "resolved_manifest_sha256": "c3072e7bf0b790a298e559a07eda75f8ce0922debe1ab344e889c133ff527c08",
   "publish_note": "taken from ledger_resolved.jsonl; corrections not re-implemented"
  },
- "publication_view_sha256": "f03fbaf9d0c14e5466db864cbaaf7d10a1dc5f06e0b6748f34fd1f232f739c13",
+ "publication_view_sha256": "2119ae5a8d34e0be2431891d505f3c634dc939ddf0799eb7480eb4f400d747e5",
  "view_source": "publication",
  "source": "T63 series 3 from resolved view (dkt 4, 6, 12)",
  "supersedes": {
-  "reason": "provenance completed under the publication_view authority (both view hashes recorded)",
-  "previous_receipt_sha256": "f40683a49e45d0042f1cf92751ab776e2dae84ff98d7c99e1e499215d3bc7165",
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "44307a070c7e4366af75212d82ed34698ab3e98b538f8b05b168c70058d63e8d",
   "previous_receipt_path": "receipts/0eea41ccb35238b96e2ac734c75cdf65e775523410ae086f44bb6354a058eeba.json"
- }
+ },
+ "view_pin_verified": true
 }

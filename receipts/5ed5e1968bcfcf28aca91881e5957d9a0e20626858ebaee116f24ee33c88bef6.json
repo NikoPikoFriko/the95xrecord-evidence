@@ -46,11 +46,12 @@
  "rendition_group": "1RC191003776:496:",
  "rendition_count": 2,
  "rendition_source": "publication_view.jsonl (copied verbatim)",
- "publication_view_sha256": "a6b490b9efeea957a20c55f3492813fe0361e308c63dec2b0e26d497fa66a269",
+ "publication_view_sha256": "2119ae5a8d34e0be2431891d505f3c634dc939ddf0799eb7480eb4f400d747e5",
  "resolved_manifest_sha256": "077e0d60e6a1e28df8d29deda0419a42dabf262eccd28b6aa37da42038ae4d9a",
  "supersedes": {
-  "reason": "aligned to the authoritative publication view: rendition fields copied, pin updated to a6b490b9",
-  "previous_receipt_sha256": "bd9a34b301975330311df24804fc50f7d6a7fb197233ee00a9f6f5ad377f7830",
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "2fedbb56d9850391e2523c5f7bcd335c37bdc9ad119f6df0265157d95eb33298",
   "previous_receipt_path": "receipts/5ed5e1968bcfcf28aca91881e5957d9a0e20626858ebaee116f24ee33c88bef6.json"
- }
+ },
+ "view_pin_verified": true
 }

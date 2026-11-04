@@ -45,5 +45,12 @@
   "case": "1RC191003776",
   "pages_source": "recomputed from the staged file (pdfinfo/PDF page tree) - audit T60 K12",
   "audit_note": "T60 clean list; NUL stripped from court_url per K13"
- }
+ },
+ "publication_view_sha256": "2119ae5a8d34e0be2431891d505f3c634dc939ddf0799eb7480eb4f400d747e5",
+ "supersedes": {
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "0fc1db253c2f46ed81d290a3f28ea98c909c8d448fc667df512f721e6cdcc0a9",
+  "previous_receipt_path": "receipts/ac9a20643c56437f1b7b68d4ba6e80ced04c732cd90ca6ade119f4205586604b.json"
+ },
+ "view_pin_verified": true
 }

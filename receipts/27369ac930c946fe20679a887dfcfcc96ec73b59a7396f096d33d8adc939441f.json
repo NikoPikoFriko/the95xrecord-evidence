@@ -46,11 +46,12 @@
  "rendition_group": "1RC191003776:ICA:",
  "rendition_count": 2,
  "rendition_source": "publication_view.jsonl (copied verbatim)",
- "publication_view_sha256": "a6b490b9efeea957a20c55f3492813fe0361e308c63dec2b0e26d497fa66a269",
+ "publication_view_sha256": "2119ae5a8d34e0be2431891d505f3c634dc939ddf0799eb7480eb4f400d747e5",
  "resolved_manifest_sha256": "077e0d60e6a1e28df8d29deda0419a42dabf262eccd28b6aa37da42038ae4d9a",
  "supersedes": {
-  "reason": "aligned to the authoritative publication view: rendition fields copied, pin updated to a6b490b9",
-  "previous_receipt_sha256": "9314303a5445cdb61c74aec54bc4a86590a0f86050d4dfc84fd7265b1cdcede0",
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "a3936e60e6591e96f120d00aa86c4179da6296f942a179983f8921b078a63a25",
   "previous_receipt_path": "receipts/27369ac930c946fe20679a887dfcfcc96ec73b59a7396f096d33d8adc939441f.json"
- }
+ },
+ "view_pin_verified": true
 }

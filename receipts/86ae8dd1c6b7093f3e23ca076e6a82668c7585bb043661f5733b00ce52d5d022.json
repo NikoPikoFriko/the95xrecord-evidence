@@ -44,5 +44,12 @@
   "staged_hash_verified": true,
   "telemetry_ok": true,
   "telemetry_record": "{\"recorded_at\":\"2026-11-03T21:02:37.5993646-10:00\",\"case\":\"1RC191003776\",\"docket\":\"495\",\"file_name\":\"2884510476.pdf\",\"file_path\":\"C:\\\\Users\\\\NIKO\\\\Downloads\\\\2884510476.pdf\",\"bytes\":6890,\"sha256\":\"86ae8dd1c6b7093f3e23ca076e6a82668c7585bb043661f5733b00ce52d5d022\",\"md5\":\"38a6a179cce283f9594d91dd9f7da768\",\"created\":\"2026-11-03T13:20:05.6983236-10:00\",\"modified\":\"2026-11-03T13:20:05.9317101-10:00\",\"zone_id\":\"ZoneId=3; ReferrerUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface; HostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=1942899447163199470\\u0000\",\"zone_raw\":\"[ZoneTransfer] | ZoneId=3 | ReferrerUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface | HostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=1942899447163199470\\u0000\",\"chrome_row\":\"no matching downloads row (profile other than Default, or history cleared)\",\"usn_row\":\"no usn match\",\"source_host\":\"jimspss1.courts.state.hi.us\"}"
- }
+ },
+ "publication_view_sha256": "2119ae5a8d34e0be2431891d505f3c634dc939ddf0799eb7480eb4f400d747e5",
+ "supersedes": {
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "27423a2b0888ca666342cd14d3bbfcd4ab60fe568f0363ff7439a480d3a0efc5",
+  "previous_receipt_path": "receipts/86ae8dd1c6b7093f3e23ca076e6a82668c7585bb043661f5733b00ce52d5d022.json"
+ },
+ "view_pin_verified": true
 }

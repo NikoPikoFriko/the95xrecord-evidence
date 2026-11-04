@@ -15,7 +15,7 @@
  "published_at": "2026-11-04T06:49:09-10:00",
  "publication_mode": "single-object (publish_one.py)",
  "resolved_manifest_sha256": "38a5059de0c20e99615078a04a8584a42bbd73303ecbd9dc88958f132d927ca9",
- "publication_view_sha256": "bedd1507fbba007c9c9a0373ea7168f7e3fbd7bd740e9c122b717ad6c152165d",
+ "publication_view_sha256": "2119ae5a8d34e0be2431891d505f3c634dc939ddf0799eb7480eb4f400d747e5",
  "source": "JIMS",
  "view_source": "capturer",
  "rendition": "pending",
@@ -33,5 +33,11 @@
   "captured_at": null
  },
  "capture_receipt_path": "dade2925abaf8b352ee9561555b3223d02339372c8b3246ded52b258737f60f6.receipt.json",
- "capture_receipt_sha256": "cee851027ef3798397a52db78c767f2b819f155aca4758a720af4948eac92538"
+ "capture_receipt_sha256": "cee851027ef3798397a52db78c767f2b819f155aca4758a720af4948eac92538",
+ "supersedes": {
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "3cca9076ab0a5e908b00d081033e5e8930be4c99cd76b0002b5885348edc38f8",
+  "previous_receipt_path": "receipts/dade2925abaf8b352ee9561555b3223d02339372c8b3246ded52b258737f60f6.json"
+ },
+ "view_pin_verified": true
 }

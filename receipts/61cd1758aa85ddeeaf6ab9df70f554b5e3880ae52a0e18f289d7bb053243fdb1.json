@@ -45,5 +45,12 @@
   "pages": 2,
   "staged_path": "D:\\PROJECT_CENTER\\temp\\court-crawl\\staging\\61cd1758aa85ddeeaf6ab9df70f554b5e3880ae52a0e18f289d7bb053243fdb1.pdf",
   "telemetry_ok": null
- }
+ },
+ "publication_view_sha256": "2119ae5a8d34e0be2431891d505f3c634dc939ddf0799eb7480eb4f400d747e5",
+ "supersedes": {
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "c680e3ff95c6d0e9295904a38bf4e3db6e02d38116681dc5191454006f0f136b",
+  "previous_receipt_path": "receipts/61cd1758aa85ddeeaf6ab9df70f554b5e3880ae52a0e18f289d7bb053243fdb1.json"
+ },
+ "view_pin_verified": true
 }

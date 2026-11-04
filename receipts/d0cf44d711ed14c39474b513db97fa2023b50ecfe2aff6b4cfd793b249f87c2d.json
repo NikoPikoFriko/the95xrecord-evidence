@@ -15,7 +15,7 @@
  "published_at": "2026-11-04T06:49:09-10:00",
  "publication_mode": "single-object (publish_one.py)",
  "resolved_manifest_sha256": "38a5059de0c20e99615078a04a8584a42bbd73303ecbd9dc88958f132d927ca9",
- "publication_view_sha256": "bedd1507fbba007c9c9a0373ea7168f7e3fbd7bd740e9c122b717ad6c152165d",
+ "publication_view_sha256": "2119ae5a8d34e0be2431891d505f3c634dc939ddf0799eb7480eb4f400d747e5",
  "source": "JIMS",
  "view_source": "capturer",
  "rendition": "pending",
@@ -33,5 +33,11 @@
   "captured_at": null
  },
  "capture_receipt_path": "d0cf44d711ed14c39474b513db97fa2023b50ecfe2aff6b4cfd793b249f87c2d.receipt.json",
- "capture_receipt_sha256": "cd61f01f5be1609bc41f14835b5a5a7a4e01d9e1dc8907eea5e6b0eeb08d231b"
+ "capture_receipt_sha256": "cd61f01f5be1609bc41f14835b5a5a7a4e01d9e1dc8907eea5e6b0eeb08d231b",
+ "supersedes": {
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "29bcbcfb97db53575177b1d744781d3846c2e954aee72acd905ca249f3b4aacb",
+  "previous_receipt_path": "receipts/d0cf44d711ed14c39474b513db97fa2023b50ecfe2aff6b4cfd793b249f87c2d.json"
+ },
+ "view_pin_verified": true
 }

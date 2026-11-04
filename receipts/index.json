@@ -12,7 +12,7 @@
    "filed": "16-JUL-2019",
    "object_path": "sha256/03b554f572a0afafcbb7bc606be342c8c36699cb3063aaa2fe48d9ac074ad09f.pdf",
    "receipt": "receipts/03b554f572a0afafcbb7bc606be342c8c36699cb3063aaa2fe48d9ac074ad09f.json",
-   "receipt_sha256": "ed222efcf80992527ff45bf6ab607f0152aeb7971d1ff09c8f5e976d647a4da6",
+   "receipt_sha256": "f4341c86e819ebf88f9655c608060d4971735087e114b25ae386f75fa99b5bd0",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=8015069673956615310",
    "tier": ""
@@ -26,7 +26,7 @@
    "filed": null,
    "object_path": "sha256/04950d932731a1f9c467aefd0dcd5eb48379626c6cb64b6a8f625221c5694e20.pdf",
    "receipt": "receipts/04950d932731a1f9c467aefd0dcd5eb48379626c6cb64b6a8f625221c5694e20.json",
-   "receipt_sha256": "2d0c4b3607bfe76f062a444a03cca567c3348620726f704e8481113b3fdd8f4e",
+   "receipt_sha256": "d4dd9afa753dfd086adff099cd911e989e122b14296c7059f12532801008425d",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-2123231562558086208",
    "tier": "SRC"
@@ -40,7 +40,7 @@
    "filed": "21-OCT-2026",
    "object_path": "sha256/04e46b37e4145a22a40e75a0f1180b7e5a44adc95ce03e2b5da4f2753574ceec.pdf",
    "receipt": "receipts/04e46b37e4145a22a40e75a0f1180b7e5a44adc95ce03e2b5da4f2753574ceec.json",
-   "receipt_sha256": "edc3c8c8eaf0d8dea17c49c54bce5834975da62a1b0e69f882b276486ff4f8cb",
+   "receipt_sha256": "85aa02cd5231e0c6b7b5640329652457c00c5ee15a02fa87f7e9273e5cb4b362",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=2635906819850758348",
    "tier": "SRC"
@@ -54,7 +54,7 @@
    "filed": null,
    "object_path": "sha256/080b7bfde42b1f4b87ef9b9bc40d51def599592359bc7ef3347400bad9fb59c2.pdf",
    "receipt": "receipts/080b7bfde42b1f4b87ef9b9bc40d51def599592359bc7ef3347400bad9fb59c2.json",
-   "receipt_sha256": "18028bdab33c1eeda4aafaf8ed770ae58c911f76d4b06a7cef647f8c34c56e17",
+   "receipt_sha256": "e37708119d71fc5f37020be0586ad510dfd67f0e5c65bd553f4b45133ecd0fb7",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=6916766321971123691",
    "tier": "SRC"
@@ -68,7 +68,7 @@
    "filed": "03-SEP-2019",
    "object_path": "sha256/0eea41ccb35238b96e2ac734c75cdf65e775523410ae086f44bb6354a058eeba.pdf",
    "receipt": "receipts/0eea41ccb35238b96e2ac734c75cdf65e775523410ae086f44bb6354a058eeba.json",
-   "receipt_sha256": "44307a070c7e4366af75212d82ed34698ab3e98b538f8b05b168c70058d63e8d",
+   "receipt_sha256": "2f40c2bc48de2c11e3a0a22fab5bd71458895b6a6b5317fe47b25117faf8a898",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-2867414473481888091",
    "tier": ""
@@ -82,7 +82,7 @@
    "filed": "13-AUG-2019",
    "object_path": "sha256/20ca4fda20dace9e5e3776267f0186242b617a0dceebdcce906dbe81360e85c2.pdf",
    "receipt": "receipts/20ca4fda20dace9e5e3776267f0186242b617a0dceebdcce906dbe81360e85c2.json",
-   "receipt_sha256": "1ace415fa6e110519bccd5f563c3309d34d83d1d0c23501cfe0e7895704090f2",
+   "receipt_sha256": "64bb8bb43a761690f4f79607988e950c7726bc8b9adb94f6cf3a52bf3a3007b7",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=2252464258259662806",
    "tier": ""
@@ -96,7 +96,7 @@
    "filed": null,
    "object_path": "sha256/267462accd55e8f6788ab93cc1439f35e529592ce437f543ec8a87c977581a13.pdf",
    "receipt": "receipts/267462accd55e8f6788ab93cc1439f35e529592ce437f543ec8a87c977581a13.json",
-   "receipt_sha256": "6f137ab6168e47cd497ef164363411cad456c28eec1fc37325479e1bdb296077",
+   "receipt_sha256": "5f6255c4dc1080616bee2b2e1f7a53908783238fdbf05cf57ca011c40a346ea3",
    "servlet": "certified",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=-6025935909910058506",
    "tier": "CERTIFIED"
@@ -110,7 +110,7 @@
    "filed": null,
    "object_path": "sha256/27369ac930c946fe20679a887dfcfcc96ec73b59a7396f096d33d8adc939441f.pdf",
    "receipt": "receipts/27369ac930c946fe20679a887dfcfcc96ec73b59a7396f096d33d8adc939441f.json",
-   "receipt_sha256": "a3936e60e6591e96f120d00aa86c4179da6296f942a179983f8921b078a63a25",
+   "receipt_sha256": "4123243a557dcbced92c69c93510a515e9b21e24dd5cbd2b0fc526e7c3b37d5f",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=1151383558689383108",
    "tier": "SRC"
@@ -124,7 +124,7 @@
    "filed": "08-JUL-2019",
    "object_path": "sha256/34bae1a121c57e0ff031ea9e011faf7667837b7e4adb707e387e8ff90a0adbb5.pdf",
    "receipt": "receipts/34bae1a121c57e0ff031ea9e011faf7667837b7e4adb707e387e8ff90a0adbb5.json",
-   "receipt_sha256": "e53a923967310e50bcdccb75ec2d59428f7222919869a256efd86b09269276fd",
+   "receipt_sha256": "3d73adeae1d82409f19af1c228e71c4b3a8b58c08ee60ac75ddc6ef66abebb4a",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-3697400053335686297",
    "tier": ""
@@ -138,7 +138,7 @@
    "filed": "12-JUL-2019",
    "object_path": "sha256/3b124ef6c716143ffe8ce50eb898e505506569a64fa3af4ff5cae9544882c760.pdf",
    "receipt": "receipts/3b124ef6c716143ffe8ce50eb898e505506569a64fa3af4ff5cae9544882c760.json",
-   "receipt_sha256": "0c0a386aa7dd23dd96cc91cc25f1bf8761669b5d85154025630a302f9bb7ccac",
+   "receipt_sha256": "b5c8b7b33d8ef339b635f7291094fefd8a7c2737f0f7c2f7e7b040d1d0a4c50b",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-575374083477501336",
    "tier": ""
@@ -152,7 +152,7 @@
    "filed": null,
    "object_path": "sha256/3b977ba20f6e5289fa9a59b138c3ba90696bbfd0e16ba8ea84f5f0820b5d8dac.pdf",
    "receipt": "receipts/3b977ba20f6e5289fa9a59b138c3ba90696bbfd0e16ba8ea84f5f0820b5d8dac.json",
-   "receipt_sha256": "d07cfba805658687aceb02cfb4aa45a40b2f49e167a591f4208d12c18e574363",
+   "receipt_sha256": "b58da3d55b94a6b34ca401bcb7d8998e07cae565de4a59549bfc7e2e889a02b4",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-6741073768394745205",
    "tier": "SRC"
@@ -166,7 +166,7 @@
    "filed": null,
    "object_path": "sha256/40ca44e68ef32dc013b2f5264c2c699f07dd42cc73db507353a0a2deafe5ce43.pdf",
    "receipt": "receipts/40ca44e68ef32dc013b2f5264c2c699f07dd42cc73db507353a0a2deafe5ce43.json",
-   "receipt_sha256": "94176b17daabdfd24063c41ec89f9540e433ceff44ef01c6b51987c6428837af",
+   "receipt_sha256": "5dde60a4b952e9767a741303c5c934a22bcbe024a9d3de2db2070511ca491f8b",
    "servlet": "certified",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=-3651902157010633269",
    "tier": "CERTIFIED"
@@ -180,7 +180,7 @@
    "filed": null,
    "object_path": "sha256/4770c624ada425baf1bd4f08790fc7305aa137ad8d76de396f337cc9a9f3f296.pdf",
    "receipt": "receipts/4770c624ada425baf1bd4f08790fc7305aa137ad8d76de396f337cc9a9f3f296.json",
-   "receipt_sha256": "006631feae118f154846dcbbc662af1192c1cfe34ac2bf53ad8cf381cb003cf2",
+   "receipt_sha256": "bd86fe37f39ebce89d68f5a3eaf360e1a16b92596ef40d6b0a46fe6275a022e7",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=680004324051517446",
    "tier": "SRC"
@@ -194,7 +194,7 @@
    "filed": null,
    "object_path": "sha256/4a74160df75c3cd1660b26b35b5dc691880421947c83754702229713e5e3db61.pdf",
    "receipt": "receipts/4a74160df75c3cd1660b26b35b5dc691880421947c83754702229713e5e3db61.json",
-   "receipt_sha256": "0f16287f27472fb79ec5b4dd56e0e4e7423bb077970c4cb7a32b24325191ae05",
+   "receipt_sha256": "3f6ca33285bc57267ad6192b22dcb311f7408ef9b99dad271bd5fc4eb59441c4",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=3624659088959784147",
    "tier": "SRC"
@@ -208,7 +208,7 @@
    "filed": "22-NOV-2019",
    "object_path": "sha256/4f087de7dedd25f02c73ba3bd10523ab625a787cace7a231ca8b33529ea5842b.pdf",
    "receipt": "receipts/4f087de7dedd25f02c73ba3bd10523ab625a787cace7a231ca8b33529ea5842b.json",
-   "receipt_sha256": "fdf5e28c9fd6e4d61bb467056340819b5b8e409d12dedec611e33f8bb156d336",
+   "receipt_sha256": "d6f328b8e828ceb2e14316847ceb337d7460d6213582567a0072a19108766cff",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-8121408657455503520",
    "tier": ""
@@ -222,7 +222,7 @@
    "filed": null,
    "object_path": "sha256/5ed5e1968bcfcf28aca91881e5957d9a0e20626858ebaee116f24ee33c88bef6.pdf",
    "receipt": "receipts/5ed5e1968bcfcf28aca91881e5957d9a0e20626858ebaee116f24ee33c88bef6.json",
-   "receipt_sha256": "2fedbb56d9850391e2523c5f7bcd335c37bdc9ad119f6df0265157d95eb33298",
+   "receipt_sha256": "a334c1dcc624b14243c2d3e397173e7c64d4f9a184f1972aea903e63366052f2",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-4148043684089643505",
    "tier": "SRC"
@@ -236,7 +236,7 @@
    "filed": null,
    "object_path": "sha256/61cd1758aa85ddeeaf6ab9df70f554b5e3880ae52a0e18f289d7bb053243fdb1.pdf",
    "receipt": "receipts/61cd1758aa85ddeeaf6ab9df70f554b5e3880ae52a0e18f289d7bb053243fdb1.json",
-   "receipt_sha256": "c680e3ff95c6d0e9295904a38bf4e3db6e02d38116681dc5191454006f0f136b",
+   "receipt_sha256": "8fc0a527ace70fac0a628e326807d598f6015e14fe08cc7974f500f80609bc10",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-5208422697541414467",
    "tier": "SRC"
@@ -250,7 +250,7 @@
    "filed": "19-OCT-2026",
    "object_path": "sha256/61ecfedfcb2e2dd104f58a493558597706ad797852e3256a65a648fbe7220fbe.pdf",
    "receipt": "receipts/61ecfedfcb2e2dd104f58a493558597706ad797852e3256a65a648fbe7220fbe.json",
-   "receipt_sha256": "2f43a35e8e1f3a38aed4a55d8c84c00869d4a8b02517d4b921766fed2a4f1599",
+   "receipt_sha256": "fef70606b19fb155fb71ec936f313eb00a777558ab85d3cc97fb2b7bc6393e73",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-1031527839128283203",
    "tier": "SRC"
@@ -264,7 +264,7 @@
    "filed": null,
    "object_path": "sha256/65100c89cd2be4e58decd8ecba9cd581d24b7a8db31a25b7f269d4072cd1576e.pdf",
    "receipt": "receipts/65100c89cd2be4e58decd8ecba9cd581d24b7a8db31a25b7f269d4072cd1576e.json",
-   "receipt_sha256": "1a3657e8e356b7623e2b13455094da4aa02c1c8cdf339769ef3598469bb1e3d4",
+   "receipt_sha256": "ce3c9c5cd6b767636d111c8876b7af5a131ab218fb9642f941533ad1c2e0bb4f",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-4001737211978560892",
    "tier": "SRC"
@@ -278,7 +278,7 @@
    "filed": null,
    "object_path": "sha256/66751c57d1a44719b0e33f02ee6c73086343189afa79953e086bd21723fca71e.pdf",
    "receipt": "receipts/66751c57d1a44719b0e33f02ee6c73086343189afa79953e086bd21723fca71e.json",
-   "receipt_sha256": "403e76d28a174e30ac882a8ce400be33ccc0edfdb7f9893bd3395d6c9e8cd70e",
+   "receipt_sha256": "b4a391e4d0fd0b4bb3c2b349848fee513868c662abfa65f035d338c468ac3c6b",
    "servlet": "certified",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=-6139293282449008766",
    "tier": "CERTIFIED"
@@ -292,7 +292,7 @@
    "filed": null,
    "object_path": "sha256/67b143179d9ca556c53175072a506e7739ac7c273b8d27e8b76bb4ea81f3ab19.pdf",
    "receipt": "receipts/67b143179d9ca556c53175072a506e7739ac7c273b8d27e8b76bb4ea81f3ab19.json",
-   "receipt_sha256": "ce90339375c7e122d9443f51bfb2b8f8e0ceb913a997dec40b49a91cd12129a3",
+   "receipt_sha256": "f63b58e121816aaec1ba76779589dd6c9bb6dedc0539e3561f230d91a3d050b0",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-3805519752844520078",
    "tier": "SRC"
@@ -306,7 +306,7 @@
    "filed": null,
    "object_path": "sha256/6f4899057046964ff5c77e0e5a1c27d150f6e32c067c19ebcf51856b2376a5d6.pdf",
    "receipt": "receipts/6f4899057046964ff5c77e0e5a1c27d150f6e32c067c19ebcf51856b2376a5d6.json",
-   "receipt_sha256": "ce327886b0575c69995c27f4f0d3bc20ecd3c8ce1cde71eb5ce79080a021ff71",
+   "receipt_sha256": "154ae404cd858985f8b74f17f3e57618cd4752d930c6f63483f928cc549c7c09",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-1348131103579714594",
    "tier": ""
@@ -320,7 +320,7 @@
    "filed": null,
    "object_path": "sha256/72bb68d9ebd2c570164a67d009f46268104c1b64bc450c3a1e7b7cd8485c4f0b.pdf",
    "receipt": "receipts/72bb68d9ebd2c570164a67d009f46268104c1b64bc450c3a1e7b7cd8485c4f0b.json",
-   "receipt_sha256": "863e5a03f3c6f1a78f52f87aa934807690b638231273f66b88af446101799a59",
+   "receipt_sha256": "3ea54da7134d253d90c1d65a54bd6a35fc3a824e723e465a909f82b262706b63",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=5014522662620773046",
    "tier": "SRC"
@@ -334,7 +334,7 @@
    "filed": null,
    "object_path": "sha256/751646b64c6aeb2414a90c4510be3a6795f3f1133a84bfa472f39ef8b74158d5.pdf",
    "receipt": "receipts/751646b64c6aeb2414a90c4510be3a6795f3f1133a84bfa472f39ef8b74158d5.json",
-   "receipt_sha256": "1b24033f8ffc616c75bd6dfaf6defe8999008e00a6d53c0ac62612c34f61d635",
+   "receipt_sha256": "dd8e5785b89dce6dc3dd7df095fe0d6bb6db5bf748fad25468c931028daeaded",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-2550547800593671",
    "tier": "SRC"
@@ -348,7 +348,7 @@
    "filed": null,
    "object_path": "sha256/7897051d8f6a7897675c363b1b35e30c59456abde7db7f47052c4a3e180f4fa0.pdf",
    "receipt": "receipts/7897051d8f6a7897675c363b1b35e30c59456abde7db7f47052c4a3e180f4fa0.json",
-   "receipt_sha256": "f5071b6e10672dff2f281b02e99093267e2adfc833fe4c4da14e2aa01bf86efa",
+   "receipt_sha256": "a0cb03ebd76bec7ec6dd0cbce4c33897e27b6d8591dd249263ac37c2ce5a43fb",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-980528518446265459",
    "tier": "SRC"
@@ -362,7 +362,7 @@
    "filed": null,
    "object_path": "sha256/7c7978910396cbbd03f5e481b326ba7499ecf8d1b5a946006c05b80aa1b46472.pdf",
    "receipt": "receipts/7c7978910396cbbd03f5e481b326ba7499ecf8d1b5a946006c05b80aa1b46472.json",
-   "receipt_sha256": "563d8b6655e812f491320f32ddf63a5c3c5199cc1d6fbe4c35dc3aac34f2a7b8",
+   "receipt_sha256": "291fa8cbb8ae82fa09905c9f22e0f2c666af07f8c2c5cfa42fb04a6c90dd1066",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-5945093112360312042",
    "tier": "SRC"
@@ -376,7 +376,7 @@
    "filed": null,
    "object_path": "sha256/7e6ca77920bfae393fe666cf1dda023ef3e10ba835adfbb92859ea5341ab52d0.pdf",
    "receipt": "receipts/7e6ca77920bfae393fe666cf1dda023ef3e10ba835adfbb92859ea5341ab52d0.json",
-   "receipt_sha256": "83c015ed97dbd8ce5e1111fbeafc0833d8f8ba2ce19000acd3e2d46f4efeba96",
+   "receipt_sha256": "0d7b8093850ee96cb3801958aced7e3ba32b54d5523f334dd60cbc39c6b9b425",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-7019829268422521691",
    "tier": "SRC"
@@ -390,7 +390,7 @@
    "filed": null,
    "object_path": "sha256/7f5d560310861beab347cbe827934863d3788b9e31039b3eae41e987c0b19710.pdf",
    "receipt": "receipts/7f5d560310861beab347cbe827934863d3788b9e31039b3eae41e987c0b19710.json",
-   "receipt_sha256": "0e682258a25f54f9b16b69f1b0c44f54b62e7343a480048039a7356a30eed8cf",
+   "receipt_sha256": "2c95d59cb418c56735f7ae08f0746a83ef44dbc7b7c7e223d384dbe25aa5bc85",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=2315302200568080481",
    "tier": "SRC"
@@ -404,7 +404,7 @@
    "filed": "23-OCT-2026",
    "object_path": "sha256/86ae8dd1c6b7093f3e23ca076e6a82668c7585bb043661f5733b00ce52d5d022.pdf",
    "receipt": "receipts/86ae8dd1c6b7093f3e23ca076e6a82668c7585bb043661f5733b00ce52d5d022.json",
-   "receipt_sha256": "27423a2b0888ca666342cd14d3bbfcd4ab60fe568f0363ff7439a480d3a0efc5",
+   "receipt_sha256": "07ff0475cf2857c132997f51087a73e524e3920f44cb26584c345a089b47cbb7",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=1942899447163199470",
    "tier": "SRC"
@@ -418,7 +418,7 @@
    "filed": null,
    "object_path": "sha256/87f5b65e406ef146c7ea5f56e03b05c9b735a293af72af4a5286f31a0a1f1c37.pdf",
    "receipt": "receipts/87f5b65e406ef146c7ea5f56e03b05c9b735a293af72af4a5286f31a0a1f1c37.json",
-   "receipt_sha256": "a3f2ed063099342a3d5bf0d0d6759f8bf270a0ce11e7d0a876a3dc633ec3b49a",
+   "receipt_sha256": "5804f0c6dd7bd067f85f3f33e97b014697fd55c79566bb605543f00f60fa06f4",
    "servlet": "certified",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=-5821243191701332665",
    "tier": "CERTIFIED"
@@ -432,24 +432,24 @@
    "filed": "23-AUG-2019",
    "object_path": "sha256/8841f216e4d223e458606fba7553bd448277c6ada85b167d41929e8cc08c93d8.pdf",
    "receipt": "receipts/8841f216e4d223e458606fba7553bd448277c6ada85b167d41929e8cc08c93d8.json",
-   "receipt_sha256": "efb2e1c9e14211caa4f590b3b24bfe3ed33d50fd70d992c0fde3b054d336d77a",
+   "receipt_sha256": "5e7f462240428de8eeb95f4872e15e99eb3c8043d907286a1b6984fc10806dfb",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-3894964581626912281",
    "tier": ""
   },
   "89bf637abbdfa9611d0108ae54fec5760d0d9805e03b9b5d02120a3f216870dc": {
-   "batch": null,
+   "batch": "immediate publish after capture",
    "captured_at": null,
    "code": "NEF",
    "docket": "18",
    "docket_recorded_verbatim": "18",
    "filed": "02-DEC-2019",
-   "object_path": null,
+   "object_path": "sha256/89bf637abbdfa9611d0108ae54fec5760d0d9805e03b9b5d02120a3f216870dc.pdf",
    "receipt": "receipts/89bf637abbdfa9611d0108ae54fec5760d0d9805e03b9b5d02120a3f216870dc.json",
-   "receipt_sha256": "3c0cc5f847dc82126485ec648fd17f2ea09d6c7eafa8aa88b1ca0d5885d90e39",
+   "receipt_sha256": "17fd2c75c2251696f9cc12e1464e9ae1bc4f5398f5a06be53ad30b06b8eb8604",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-702025660265980255",
-   "tier": null
+   "tier": ""
   },
   "8caeac19dd2101a9ec7d6f8371c46a93a58a4233a9df956c814ec855107f3d14": {
    "batch": "4",
@@ -460,7 +460,7 @@
    "filed": "08-JUL-2019",
    "object_path": "sha256/8caeac19dd2101a9ec7d6f8371c46a93a58a4233a9df956c814ec855107f3d14.pdf",
    "receipt": "receipts/8caeac19dd2101a9ec7d6f8371c46a93a58a4233a9df956c814ec855107f3d14.json",
-   "receipt_sha256": "c7db6b8ceb3fd7c36f8582785d8b5336d03774975a2106ae407203aae2b670cd",
+   "receipt_sha256": "c0240679f062a7dfb33f9dffe96774ad3ada41ed122772be61c0d79650b65c61",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-3115844995683487479",
    "tier": ""
@@ -474,7 +474,7 @@
    "filed": null,
    "object_path": "sha256/9244cf8daa323bd18ae84de9824463938e3425180807d51806ba7aad280f4de0.pdf",
    "receipt": "receipts/9244cf8daa323bd18ae84de9824463938e3425180807d51806ba7aad280f4de0.json",
-   "receipt_sha256": "b6c62b8c910c029ff9df83417f35b6b66bbb24dea6677f207cdb32b35150f8c0",
+   "receipt_sha256": "9a1921779d9e810f546747ecdcf2a6b4dcf65d1fe41e032dd9c0876a2046fb31",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-7374500474331438938",
    "tier": "SRC"
@@ -488,7 +488,7 @@
    "filed": null,
    "object_path": "sha256/93185a111258e78834c58495cd9e9f2bb5cbd16ce385f60b7b3d3d0bc1150ee5.pdf",
    "receipt": "receipts/93185a111258e78834c58495cd9e9f2bb5cbd16ce385f60b7b3d3d0bc1150ee5.json",
-   "receipt_sha256": "4349381fd50932303af7c8cbb6a86105d1530ea477bd087ed029a5ccfd81f05f",
+   "receipt_sha256": "85a272c6b3b7c66985aea338cd36a44090fa95886fb77e78845b3ca882f0bed9",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-5802438124176346405",
    "tier": "SRC"
@@ -502,24 +502,24 @@
    "filed": null,
    "object_path": "sha256/937ceb5dfc2465cb97f2c576c1139fb04ca987f32f797fbc679cc14ad49b80ed.pdf",
    "receipt": "receipts/937ceb5dfc2465cb97f2c576c1139fb04ca987f32f797fbc679cc14ad49b80ed.json",
-   "receipt_sha256": "6664e562bb271e97632dd0bfaa68437df5df38576c17a092c6b3e0e8df145229",
+   "receipt_sha256": "2da99c41698463d1626554326ead205d48cd1fca222ec1084c4140079a98db58",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-7244938889714955359",
    "tier": "SRC"
   },
   "9c1dcaa8c79079bbd9f81c70ef3b1c0616755047c29705bbeff6beac09f43635": {
-   "batch": null,
+   "batch": "immediate publish after capture",
    "captured_at": null,
    "code": "MDJ",
    "docket": "19",
    "docket_recorded_verbatim": "19",
    "filed": "06-JAN-2020",
-   "object_path": null,
+   "object_path": "sha256/9c1dcaa8c79079bbd9f81c70ef3b1c0616755047c29705bbeff6beac09f43635.pdf",
    "receipt": "receipts/9c1dcaa8c79079bbd9f81c70ef3b1c0616755047c29705bbeff6beac09f43635.json",
-   "receipt_sha256": "8f369b0206dea546234bbf87e16b677242b7e29b1d68f927777cf193cc70219c",
+   "receipt_sha256": "b156946a7dd73f20f57c297594fd6ccda7a5280a6b31c7c4e8cb2ea0cc39bbb8",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-6277603892225234157",
-   "tier": null
+   "tier": ""
   },
   "a9cad9b36d8b3a7bbe406358fa63f41d952a92636f694f3d58f834ef1da0bd54": {
    "batch": "3",
@@ -530,7 +530,7 @@
    "filed": "19-OCT-2026",
    "object_path": "sha256/a9cad9b36d8b3a7bbe406358fa63f41d952a92636f694f3d58f834ef1da0bd54.pdf",
    "receipt": "receipts/a9cad9b36d8b3a7bbe406358fa63f41d952a92636f694f3d58f834ef1da0bd54.json",
-   "receipt_sha256": "4ecc37ec6e03ca81d0d0fc788c753853cfb7acea7e3849f60e9b219bb14f8be1",
+   "receipt_sha256": "8896fba03c32b122cb3a2a4a42dcb712fb67cbf7b95e5ddcba8485fa8d3685d8",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-5665314897244156908",
    "tier": "SRC"
@@ -544,7 +544,7 @@
    "filed": "31-MAY-2019",
    "object_path": "sha256/ac9a20643c56437f1b7b68d4ba6e80ced04c732cd90ca6ade119f4205586604b.pdf",
    "receipt": "receipts/ac9a20643c56437f1b7b68d4ba6e80ced04c732cd90ca6ade119f4205586604b.json",
-   "receipt_sha256": "0fc1db253c2f46ed81d290a3f28ea98c909c8d448fc667df512f721e6cdcc0a9",
+   "receipt_sha256": "ed06d6624c6441faa14263509ef48d883940e5af18c6b2f79e783ac8cb9dc456",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-4652056899224180711",
    "tier": ""
@@ -558,7 +558,7 @@
    "filed": null,
    "object_path": "sha256/ad3ebc5c1054421a680b2dc4b03f752d09a98b2fe814d7aee423f517a820ba76.pdf",
    "receipt": "receipts/ad3ebc5c1054421a680b2dc4b03f752d09a98b2fe814d7aee423f517a820ba76.json",
-   "receipt_sha256": "a15357d8cd1397e4c7d83dee2655c7e275f11f0d34d0a2242ddc458b8f61ca60",
+   "receipt_sha256": "4660471120cd689fb1f289cf5e264035eaaacd44d87c1851ee5ad93948098223",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=2192175007952631266",
    "tier": "SRC"
@@ -572,7 +572,7 @@
    "filed": null,
    "object_path": "sha256/ada2e1835ee18b4e309f71c7d36dc0f50ce4b9f3869c59274d3de2ebb2255240.pdf",
    "receipt": "receipts/ada2e1835ee18b4e309f71c7d36dc0f50ce4b9f3869c59274d3de2ebb2255240.json",
-   "receipt_sha256": "a7a04e095d3f8ee813118492096f5088cc1c8af2ff3209612412ac5d0591972b",
+   "receipt_sha256": "71d521a730b448f4e384b86c3d3845e91be0831f66c342b2104378900dd3044f",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-8270359790836867480",
    "tier": "SRC"
@@ -586,7 +586,7 @@
    "filed": null,
    "object_path": "sha256/afda0dbbbd371f6e1a27da6f7d57e8b690520a791cc92c4d09dc835c44f1fb83.pdf",
    "receipt": "receipts/afda0dbbbd371f6e1a27da6f7d57e8b690520a791cc92c4d09dc835c44f1fb83.json",
-   "receipt_sha256": "e09b063f7bd36367fbd69824ea87c2461f9f69eb031bf61004fb511359d1ee6d",
+   "receipt_sha256": "6a641677aa46d28bdbb67da0f091d8a14c8d94548edbdcf80f50db45bf57b1fa",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-6724965835921518722",
    "tier": "SRC"
@@ -600,7 +600,7 @@
    "filed": null,
    "object_path": "sha256/b7c272005399c56954bf5d1c51bc68bc49540f5412e072decf9f9ad89f8b912b.pdf",
    "receipt": "receipts/b7c272005399c56954bf5d1c51bc68bc49540f5412e072decf9f9ad89f8b912b.json",
-   "receipt_sha256": "aff837c2e0c0414addf61b81304ea5a564d45244e61f233cf726a349d6128e9e",
+   "receipt_sha256": "7b2f7500f13200e6d891e1691c2015eff8a625e760916472a2da08492cc303a2",
    "servlet": "certified",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=3575192460395417519",
    "tier": "CERTIFIED"
@@ -614,7 +614,7 @@
    "filed": null,
    "object_path": "sha256/c38308661b3eb31e0130e4a16c1c032b1c52a19e239698440afd8d6461e1fb07.pdf",
    "receipt": "receipts/c38308661b3eb31e0130e4a16c1c032b1c52a19e239698440afd8d6461e1fb07.json",
-   "receipt_sha256": "87195bd540216678966caed9d72f8c21e2641035c3a83cbac5e0be38027f9cc5",
+   "receipt_sha256": "f152daa30162b5f4adf2a583d5832965e1d9608e0316a15249507f9cb98d1d64",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-795043346707787817",
    "tier": "SRC"
@@ -628,24 +628,24 @@
    "filed": null,
    "object_path": "sha256/cb14cad03b35951aae8d034576607073130ec6dc11b1eaceca811f40ba17db77.pdf",
    "receipt": "receipts/cb14cad03b35951aae8d034576607073130ec6dc11b1eaceca811f40ba17db77.json",
-   "receipt_sha256": "7af5a6523775a8481e55e05bff0e8084731b7041e6e46b8824c5c6260deb04c5",
+   "receipt_sha256": "b35717dc81de1c97815f1be69f7fec6db601829bd37b1eec5ceba64939d7217e",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-7692912135917577168",
    "tier": "SRC"
   },
   "d0cf44d711ed14c39474b513db97fa2023b50ecfe2aff6b4cfd793b249f87c2d": {
-   "batch": null,
+   "batch": "immediate publish after capture",
    "captured_at": null,
    "code": "NEF",
    "docket": "495",
    "docket_recorded_verbatim": "495",
    "filed": "23-OCT-2026",
-   "object_path": null,
+   "object_path": "sha256/d0cf44d711ed14c39474b513db97fa2023b50ecfe2aff6b4cfd793b249f87c2d.pdf",
    "receipt": "receipts/d0cf44d711ed14c39474b513db97fa2023b50ecfe2aff6b4cfd793b249f87c2d.json",
-   "receipt_sha256": "29bcbcfb97db53575177b1d744781d3846c2e954aee72acd905ca249f3b4aacb",
+   "receipt_sha256": "bb33c7834db077ad0470c7238e8c1c3691f706f10ca3895e5d36526f6200fe22",
    "servlet": "certified",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=-2132126284213201075",
-   "tier": null
+   "tier": ""
   },
   "d89cf0acf0bd7e8c60c2548492ef75f6ddcd34f9df35731208914d57c3f3aba6": {
    "batch": "0",
@@ -656,24 +656,24 @@
    "filed": null,
    "object_path": "sha256/d89cf0acf0bd7e8c60c2548492ef75f6ddcd34f9df35731208914d57c3f3aba6.pdf",
    "receipt": "receipts/d89cf0acf0bd7e8c60c2548492ef75f6ddcd34f9df35731208914d57c3f3aba6.json",
-   "receipt_sha256": "0093edc252383d674b7e792be4163ee8575e80246d14a0cd1ae0c4c50e63fa92",
+   "receipt_sha256": "2ac13b41c0a7ddf82585b151468e0a680a75aead80deb4830dad2b166fd5ca2e",
    "servlet": "certified",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=-7195742043922591415",
    "tier": "CERTIFIED"
   },
   "dade2925abaf8b352ee9561555b3223d02339372c8b3246ded52b258737f60f6": {
-   "batch": null,
+   "batch": "immediate publish after capture",
    "captured_at": null,
    "code": "PROP",
    "docket": "494",
    "docket_recorded_verbatim": "494",
    "filed": "23-OCT-2026",
-   "object_path": null,
+   "object_path": "sha256/dade2925abaf8b352ee9561555b3223d02339372c8b3246ded52b258737f60f6.pdf",
    "receipt": "receipts/dade2925abaf8b352ee9561555b3223d02339372c8b3246ded52b258737f60f6.json",
-   "receipt_sha256": "3cca9076ab0a5e908b00d081033e5e8930be4c99cd76b0002b5885348edc38f8",
+   "receipt_sha256": "b4afac422c435635fa16ba94ceb68c4d142cd5fe5370d4191ee43142b144bf72",
    "servlet": "certified",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=839617491208344317",
-   "tier": null
+   "tier": ""
   },
   "ef43cc58f2efea735865ba29ea8441becd7fb508589b863575577a460d7de491": {
    "batch": "3",
@@ -684,7 +684,7 @@
    "filed": null,
    "object_path": "sha256/ef43cc58f2efea735865ba29ea8441becd7fb508589b863575577a460d7de491.pdf",
    "receipt": "receipts/ef43cc58f2efea735865ba29ea8441becd7fb508589b863575577a460d7de491.json",
-   "receipt_sha256": "b061061654404d1a76f8078137b7dd099780263dd0cbebbab8a4fb23dc5ea157",
+   "receipt_sha256": "2e57d8f15aa3909e13a2e1fec1ae34c94839c4f6fe7b3047c8fa9e023bae72ab",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-7684146679322144350",
    "tier": ""
@@ -698,7 +698,7 @@
    "filed": null,
    "object_path": "sha256/f296f03ebaeb9d4cb13c78d022b2647b5f2e6ebbbe9627557b95353d85e9fa38.pdf",
    "receipt": "receipts/f296f03ebaeb9d4cb13c78d022b2647b5f2e6ebbbe9627557b95353d85e9fa38.json",
-   "receipt_sha256": "732cafd3c57a721fc68e29f2dc7a4565e231c579ccf2a6cb2583dd342fbf166c",
+   "receipt_sha256": "780e4db2c565109f31df12208ec4eff8c26dd7f76cb5a2a7fdd9a616416f0baa",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-2311072331553564565",
    "tier": ""
@@ -712,7 +712,7 @@
    "filed": null,
    "object_path": "sha256/ffaecdd198f2f4735814eb1a1d214be03995e5708b1579f66a4c4a6e89f4a8f5.pdf",
    "receipt": "receipts/ffaecdd198f2f4735814eb1a1d214be03995e5708b1579f66a4c4a6e89f4a8f5.json",
-   "receipt_sha256": "ab2b8877eaeca04a0071a2d31d3f030555b78facb3a66a6ca85c499f9f26b4ec",
+   "receipt_sha256": "573a19afa3fbc27b28f9fc5137bfecc3f355c2c0105a911e563fa4fd24a38f46",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=7639324257631160581",
    "tier": "SRC"
