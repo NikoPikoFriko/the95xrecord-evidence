@@ -359,10 +359,10 @@
    "code": "CS",
    "docket": "10",
    "docket_recorded_verbatim": "10",
-   "filed": "08-OCT-2026",
+   "filed": "23-AUG-2019",
    "object_path": "sha256/8841f216e4d223e458606fba7553bd448277c6ada85b167d41929e8cc08c93d8.pdf",
    "receipt": "receipts/8841f216e4d223e458606fba7553bd448277c6ada85b167d41929e8cc08c93d8.json",
-   "receipt_sha256": "e6bce6954b064202d2020dbd9f3fd1bb040673f585be389fdbfca979c751fbc1",
+   "receipt_sha256": "efb2e1c9e14211caa4f590b3b24bfe3ed33d50fd70d992c0fde3b054d336d77a",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-3894964581626912281",
    "tier": ""

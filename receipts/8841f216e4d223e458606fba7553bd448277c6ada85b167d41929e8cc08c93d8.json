@@ -18,7 +18,7 @@
  "row_index_recorded": null,
  "docket_code_recorded": "CS",
  "title_recorded": null,
- "filed_recorded": "08-OCT-2026",
+ "filed_recorded": "23-AUG-2019",
  "pages_recorded": 2,
  "case_recorded": "1RC191003776",
  "original_filename": null,
@@ -45,5 +45,20 @@
   "case": "1RC191003776",
   "pages_source": "recomputed from the staged file (pdfinfo/PDF page tree) - audit T60 K12",
   "audit_note": "T60 clean list; NUL stripped from court_url per K13"
+ },
+ "corrections": [
+  {
+   "source": "TEMPLE/captures/ledger_corrections.v2.jsonl",
+   "action": "FIX-FIELD",
+   "field": "filed_recorded",
+   "from": "08-OCT-2026",
+   "to": "23-AUG-2019",
+   "reason": "page-1 stamp and the register (COURT_MASTER_WORKLIST) say 23-AUG-2019 13:51; capturer passed 08-OCT-2026. Bytes/sha unaffected. Re-audit R12."
+  }
+ ],
+ "supersedes": {
+  "reason": "FIX-FIELD filed_recorded: '08-OCT-2026' -> '23-AUG-2019' (audit R12; page-1 stamp and COURT_MASTER_WORKLIST)",
+  "previous_receipt_sha256": "e6bce6954b064202d2020dbd9f3fd1bb040673f585be389fdbfca979c751fbc1",
+  "previous_receipt_path": "receipts/8841f216e4d223e458606fba7553bd448277c6ada85b167d41929e8cc08c93d8.json"
  }
 }
