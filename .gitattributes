@@ -1,0 +1,5 @@
+# Byte-exactness is the entire point of this repository: the filename IS the sha256 of the content.
+# Any end-of-line translation would change the bytes and break every hash.
+# `-text` disables EOL conversion and text diffing for EVERY path, for every cloner, regardless
+# of their own core.autocrlf setting.
+* -text
