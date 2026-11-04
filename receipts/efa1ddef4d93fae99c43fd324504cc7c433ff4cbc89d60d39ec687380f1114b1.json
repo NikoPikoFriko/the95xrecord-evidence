@@ -5,7 +5,7 @@
  "object_path": "sha256/efa1ddef4d93fae99c43fd324504cc7c433ff4cbc89d60d39ec687380f1114b1.pdf",
  "case_recorded": "1RC191003776",
  "docket_recorded": "15",
- "docket_code_recorded": "OT",
+ "docket_code_recorded": "RA",
  "filed_recorded": "22-NOV-2019",
  "pages_recorded": 197,
  "pages_source": "ledger",
@@ -15,7 +15,7 @@
  "published_at": "2026-11-04T08:40:28-10:00",
  "publication_mode": "single-object (publish_one.py)",
  "resolved_manifest_sha256": "bc95061d60e201c79fb4bc6508efd67ed51690be049e1b9d2c096b44740fd5c5",
- "publication_view_sha256": "aff12991266f328b8dfa0f79c61478d710ea79034f3ef9e286c1df52f68cdd58",
+ "publication_view_sha256": "b1a84e06a58c3972eba8e33daf69ba924b98efa966a094aef29f9614b73d1ac8",
  "source": "JIMS",
  "view_source": "capturer",
  "rendition": "pending",
@@ -33,5 +33,12 @@
   "captured_at": "2026-11-04T08:37:56.621167-10:00"
  },
  "capture_receipt_path": "efa1ddef4d93fae99c43fd324504cc7c433ff4cbc89d60d39ec687380f1114b1.receipt.json",
- "capture_receipt_sha256": "7c08a200799bf1d234e98460ea559968b846107591aa5d67d833459f5bd14422"
+ "capture_receipt_sha256": "7c08a200799bf1d234e98460ea559968b846107591aa5d67d833459f5bd14422",
+ "supersedes": {
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "ae8844e3b0f414d4edaafc9ff5ec3c257d7a089c7a4dfec5a898243c08281eec",
+  "previous_receipt_path": "receipts/efa1ddef4d93fae99c43fd324504cc7c433ff4cbc89d60d39ec687380f1114b1.json"
+ },
+ "corrected_at": "2026-11-04T08:44:34-1000",
+ "view_pin_verified": true
 }
