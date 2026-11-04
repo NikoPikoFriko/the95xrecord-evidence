@@ -1,5 +1,5 @@
 {
- "count": 40,
+ "count": 42,
  "generated_from": "receipts/*.json",
  "note": "servlet urls are session-bound; see RECEIPTS.md",
  "receipts": {
@@ -353,6 +353,20 @@
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=-5821243191701332665",
    "tier": "CERTIFIED"
   },
+  "8841f216e4d223e458606fba7553bd448277c6ada85b167d41929e8cc08c93d8": {
+   "batch": "5",
+   "captured_at": "2026-11-03T22:53:05.650764-10:00",
+   "code": "CS",
+   "docket": "10",
+   "docket_recorded_verbatim": "10",
+   "filed": "08-OCT-2026",
+   "object_path": "sha256/8841f216e4d223e458606fba7553bd448277c6ada85b167d41929e8cc08c93d8.pdf",
+   "receipt": "receipts/8841f216e4d223e458606fba7553bd448277c6ada85b167d41929e8cc08c93d8.json",
+   "receipt_sha256": "e6bce6954b064202d2020dbd9f3fd1bb040673f585be389fdbfca979c751fbc1",
+   "servlet": "regular",
+   "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-3894964581626912281",
+   "tier": ""
+  },
   "8caeac19dd2101a9ec7d6f8371c46a93a58a4233a9df956c814ec855107f3d14": {
    "batch": "4",
    "captured_at": "2026-11-03T22:32:02.851355-10:00",
@@ -422,6 +436,20 @@
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-5665314897244156908",
    "tier": "SRC"
+  },
+  "ac9a20643c56437f1b7b68d4ba6e80ced04c732cd90ca6ade119f4205586604b": {
+   "batch": "5",
+   "captured_at": "2026-11-03T21:53:40.061170-10:00",
+   "code": "CMP",
+   "docket": "1",
+   "docket_recorded_verbatim": "1",
+   "filed": "31-MAY-2019",
+   "object_path": "sha256/ac9a20643c56437f1b7b68d4ba6e80ced04c732cd90ca6ade119f4205586604b.pdf",
+   "receipt": "receipts/ac9a20643c56437f1b7b68d4ba6e80ced04c732cd90ca6ade119f4205586604b.json",
+   "receipt_sha256": "0fc1db253c2f46ed81d290a3f28ea98c909c8d448fc667df512f721e6cdcc0a9",
+   "servlet": "regular",
+   "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-4652056899224180711",
+   "tier": ""
   },
   "ad3ebc5c1054421a680b2dc4b03f752d09a98b2fe814d7aee423f517a820ba76": {
    "batch": "0",

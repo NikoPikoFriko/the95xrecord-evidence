@@ -1,5 +1,5 @@
 {
- "count": 40,
+ "count": 42,
  "entries": {
   "03b554f572a0afafcbb7bc606be342c8c36699cb3063aaa2fe48d9ac074ad09f": {
    "captured_at": "2026-11-03T22:34:56.378357-10:00",
@@ -232,6 +232,15 @@
    "receipt": "receipts/87f5b65e406ef146c7ea5f56e03b05c9b735a293af72af4a5286f31a0a1f1c37.json",
    "status": "captured"
   },
+  "8841f216e4d223e458606fba7553bd448277c6ada85b167d41929e8cc08c93d8": {
+   "captured_at": "2026-11-03T22:53:05.650764-10:00",
+   "case": "1RC191003776",
+   "docket": "10",
+   "kind": "regular",
+   "object": "sha256/8841f216e4d223e458606fba7553bd448277c6ada85b167d41929e8cc08c93d8.pdf",
+   "receipt": "receipts/8841f216e4d223e458606fba7553bd448277c6ada85b167d41929e8cc08c93d8.json",
+   "status": "captured"
+  },
   "8caeac19dd2101a9ec7d6f8371c46a93a58a4233a9df956c814ec855107f3d14": {
    "captured_at": "2026-11-03T22:32:02.851355-10:00",
    "case": "1RC191003776",
@@ -275,6 +284,15 @@
    "kind": "regular",
    "object": "sha256/a9cad9b36d8b3a7bbe406358fa63f41d952a92636f694f3d58f834ef1da0bd54.pdf",
    "receipt": "receipts/a9cad9b36d8b3a7bbe406358fa63f41d952a92636f694f3d58f834ef1da0bd54.json",
+   "status": "captured"
+  },
+  "ac9a20643c56437f1b7b68d4ba6e80ced04c732cd90ca6ade119f4205586604b": {
+   "captured_at": "2026-11-03T21:53:40.061170-10:00",
+   "case": "1RC191003776",
+   "docket": "1",
+   "kind": "regular",
+   "object": "sha256/ac9a20643c56437f1b7b68d4ba6e80ced04c732cd90ca6ade119f4205586604b.pdf",
+   "receipt": "receipts/ac9a20643c56437f1b7b68d4ba6e80ced04c732cd90ca6ade119f4205586604b.json",
    "status": "captured"
   },
   "ad3ebc5c1054421a680b2dc4b03f752d09a98b2fe814d7aee423f517a820ba76": {
@@ -369,7 +387,7 @@
   }
  },
  "ledger": "captures/ledger.jsonl",
- "ledger_sha256": "940ea2ac820b3fe4483617dc385eda10f4548ff59495b3c35faf8823eab37e77",
+ "ledger_sha256": "d88d665b9fc5b0c669c387f6a73dc27e78e579b004f50344fb54918f40e74a81",
  "note": "append-only; a re-capture of different bytes creates a new entry that names the superseded one. See README.",
  "schema": "evidence-capture-ledger-index/1"
 }
