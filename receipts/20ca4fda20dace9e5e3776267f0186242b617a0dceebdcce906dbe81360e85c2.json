@@ -14,16 +14,16 @@
   "jims_session": null,
   "ads_verbatim": "[ZoneTransfer]\nZoneId=3\nHostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=2252464258259662806\u0000"
  },
- "docket_recorded": "9",
+ "docket_recorded": "8",
  "row_index_recorded": null,
- "docket_code_recorded": "DOC",
+ "docket_code_recorded": "ROS",
  "title_recorded": null,
- "filed_recorded": "13-AUG-2019",
+ "filed_recorded": "18-JUL-2019",
  "pages_recorded": 2,
  "case_recorded": "1RC191003776",
  "original_filename": null,
  "resolved_manifest_sha256": "077e0d60e6a1e28df8d29deda0419a42dabf262eccd28b6aa37da42038ae4d9a",
- "publication_view_sha256": "2119ae5a8d34e0be2431891d505f3c634dc939ddf0799eb7480eb4f400d747e5",
+ "publication_view_sha256": "eeffc412432dfd4ef936fe45b7da89ba033de645f6cd8669c01e0dd1f7625a04",
  "pages_source": "publication_view",
  "source": "JIMS",
  "view_source": "capturer",
@@ -73,8 +73,9 @@
  "rendition_source": "publication_view.jsonl (copied verbatim)",
  "supersedes": {
   "reason": "re-pin to the rebuilt publication view",
-  "previous_receipt_sha256": "1ace415fa6e110519bccd5f563c3309d34d83d1d0c23501cfe0e7895704090f2",
+  "previous_receipt_sha256": "36f9e41f8a948873e58a9801101fa0d21bb348c30264edf2826295e915726087",
   "previous_receipt_path": "receipts/20ca4fda20dace9e5e3776267f0186242b617a0dceebdcce906dbe81360e85c2.json"
  },
- "view_pin_verified": true
+ "view_pin_verified": true,
+ "corrected_at": "2026-11-04T08:45:50-1000"
 }
