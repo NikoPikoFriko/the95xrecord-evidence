@@ -4,9 +4,9 @@
  "bytes": 391392,
  "object_path": "sha256/0e54f37f8eef46ce0e18b1a21efda99c4a08ceede6faeec22cf0ba8d6659ba83.pdf",
  "case_recorded": "1RC191003776",
- "docket_recorded": "28",
- "docket_code_recorded": "NTCE",
- "filed_recorded": "13-JAN-2020",
+ "docket_recorded": "427",
+ "docket_code_recorded": "JDG",
+ "filed_recorded": "23-JUN-2026",
  "pages_recorded": 1,
  "pages_source": "ledger",
  "title_recorded": null,
@@ -15,7 +15,7 @@
  "published_at": "2026-11-04T08:12:47-10:00",
  "publication_mode": "single-object (publish_one.py)",
  "resolved_manifest_sha256": "738442ac96cad96aa520c154a4b37e77746aa20b157ccf773533e4e8ccbd569a",
- "publication_view_sha256": "69fdf6f46a3edf5bde4d849323601bae9ba0225fbb373b5cbd4697f59610c362",
+ "publication_view_sha256": "eeffc412432dfd4ef936fe45b7da89ba033de645f6cd8669c01e0dd1f7625a04",
  "source": "JIMS",
  "view_source": "capturer",
  "rendition": null,
@@ -31,5 +31,12 @@
   "captured_at": "2026-11-04T08:11:51.786913-10:00"
  },
  "capture_receipt_path": "0e54f37f8eef46ce0e18b1a21efda99c4a08ceede6faeec22cf0ba8d6659ba83.receipt.json",
- "capture_receipt_sha256": "eec4ee5b60d661389c1d63f773f78b4cade1e1975224139a960e48a851a08c57"
+ "capture_receipt_sha256": "eec4ee5b60d661389c1d63f773f78b4cade1e1975224139a960e48a851a08c57",
+ "supersedes": {
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "2abb24980f6827ff6c7e07f6694e5eb4c7a0b227d4cabd7459ace4a289763043",
+  "previous_receipt_path": "receipts/0e54f37f8eef46ce0e18b1a21efda99c4a08ceede6faeec22cf0ba8d6659ba83.json"
+ },
+ "corrected_at": "2026-11-04T08:45:50-1000",
+ "view_pin_verified": true
 }
