@@ -1,0 +1,71 @@
+{
+ "schema": "evidence-receipt/1",
+ "batch": "8",
+ "batch_label": "T67 dkt 9 DOC additional rendition (row 8 re-verified)",
+ "sha256": "20ca4fda20dace9e5e3776267f0186242b617a0dceebdcce906dbe81360e85c2",
+ "bytes": 797009,
+ "object_path": "sha256/20ca4fda20dace9e5e3776267f0186242b617a0dceebdcce906dbe81360e85c2.pdf",
+ "court": {
+  "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=2252464258259662806",
+  "url_host": "jimspss1.courts.state.hi.us",
+  "servlet": "regular",
+  "source_system": null,
+  "captured_at": "2026-11-03T23:54:44.944908-10:00",
+  "jims_session": null,
+  "ads_verbatim": "[ZoneTransfer]\nZoneId=3\nHostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=2252464258259662806\u0000"
+ },
+ "docket_recorded": "9",
+ "row_index_recorded": null,
+ "docket_code_recorded": "DOC",
+ "title_recorded": null,
+ "filed_recorded": "13-AUG-2019",
+ "pages_recorded": 2,
+ "case_recorded": "1RC191003776",
+ "original_filename": null,
+ "resolved_manifest_sha256": "077e0d60e6a1e28df8d29deda0419a42dabf262eccd28b6aa37da42038ae4d9a",
+ "publication_view_sha256": "8c0052dbaff494dd4ec631aff41eb3cc6908dc25239281fd4af465126316eb9c",
+ "pages_source": "publication_view",
+ "source": "JIMS",
+ "view_source": "capturer",
+ "rendition": "additional",
+ "rendition_of": [
+  "6f4899057046964ff5c77e0e5a1c27d150f6e32c067c19ebcf51856b2376a5d6"
+ ],
+ "raw_capture": {
+  "case_id": "1RC191003776",
+  "dkt": "9",
+  "code": "DOC",
+  "filed": "13-AUG-2019",
+  "title": null,
+  "title_source": "null",
+  "form": "COURT-URL",
+  "sha256": "20ca4fda20dace9e5e3776267f0186242b617a0dceebdcce906dbe81360e85c2",
+  "bytes": 797009,
+  "pages": 2,
+  "court_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=2252464258259662806",
+  "zone_identifier_raw": "[ZoneTransfer]\nZoneId=3\nHostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=2252464258259662806\u0000",
+  "page1_case_gate": "pass",
+  "source": "JIMS",
+  "browser_id": "64cfb09a",
+  "status": "CAPTURED",
+  "staged_path": "C:\\Users\\NIKO\\TEMPLE\\staging\\20ca4fda20dace9e5e3776267f0186242b617a0dceebdcce906dbe81360e85c2.pdf",
+  "ts": "2026-11-03T23:54:44.944908-10:00",
+  "ledger_line": 55,
+  "voided": false,
+  "pages_source": "publication_view",
+  "published": false,
+  "view_source": "capturer",
+  "sources": [
+   "captures/ledger_resolved.jsonl"
+  ],
+  "docket": "9",
+  "case": "1RC191003776",
+  "publication_view_sha256": "8c0052dbaff494dd4ec631aff41eb3cc6908dc25239281fd4af465126316eb9c",
+  "resolved_manifest_sha256": "077e0d60e6a1e28df8d29deda0419a42dabf262eccd28b6aa37da42038ae4d9a",
+  "rendition": "additional",
+  "rendition_of": [
+   "6f4899057046964ff5c77e0e5a1c27d150f6e32c067c19ebcf51856b2376a5d6"
+  ],
+  "publish_note": "taken from publication_view.jsonl; corrections not re-implemented"
+ }
+}
