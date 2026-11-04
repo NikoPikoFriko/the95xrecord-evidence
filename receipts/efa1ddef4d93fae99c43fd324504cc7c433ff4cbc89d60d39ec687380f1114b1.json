@@ -1,0 +1,37 @@
+{
+ "schema": "evidence-receipt/1",
+ "sha256": "efa1ddef4d93fae99c43fd324504cc7c433ff4cbc89d60d39ec687380f1114b1",
+ "bytes": 508168,
+ "object_path": "sha256/efa1ddef4d93fae99c43fd324504cc7c433ff4cbc89d60d39ec687380f1114b1.pdf",
+ "case_recorded": "1RC191003776",
+ "docket_recorded": "15",
+ "docket_code_recorded": "OT",
+ "filed_recorded": "22-NOV-2019",
+ "pages_recorded": 197,
+ "pages_source": "ledger",
+ "title_recorded": "Other Certificate of Service Re: Third-Party Defendant ThyssenKrupp Elevator Corporation's Joinder to Counterclaim Defen",
+ "title_source": "jims-row",
+ "batch": "immediate publish after capture",
+ "published_at": "2026-11-04T08:40:28-10:00",
+ "publication_mode": "single-object (publish_one.py)",
+ "resolved_manifest_sha256": "bc95061d60e201c79fb4bc6508efd67ed51690be049e1b9d2c096b44740fd5c5",
+ "publication_view_sha256": "aff12991266f328b8dfa0f79c61478d710ea79034f3ef9e286c1df52f68cdd58",
+ "source": "JIMS",
+ "view_source": "capturer",
+ "rendition": "pending",
+ "rendition_of": [
+  "eb8d4531aca65b5944d86ff5bc7a3358661c37b40c261aab31a8f4dae6305f38"
+ ],
+ "rendition_group": "1RC191003776:15:OT",
+ "rendition_count": 2,
+ "rendition_source": "publication_view.jsonl (copied verbatim)",
+ "court": {
+  "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=7379587633047722455",
+  "url_host": "jimspss1.courts.state.hi.us",
+  "servlet": "regular",
+  "ads_verbatim": "[ZoneTransfer]\r\nZoneId=3\r\nReferrerUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface\r\nHostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=7379587633047722455\u0000",
+  "captured_at": "2026-11-04T08:37:56.621167-10:00"
+ },
+ "capture_receipt_path": "efa1ddef4d93fae99c43fd324504cc7c433ff4cbc89d60d39ec687380f1114b1.receipt.json",
+ "capture_receipt_sha256": "7c08a200799bf1d234e98460ea559968b846107591aa5d67d833459f5bd14422"
+}

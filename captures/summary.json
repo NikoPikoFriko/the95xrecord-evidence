@@ -1,9 +1,9 @@
 {
  "by_kind": {
   "certified": 10,
-  "regular": 81
+  "regular": 82
  },
- "captured": 91,
+ "captured": 92,
  "cases": [
   "1RC191003776",
   "CAAP-26-0000625"
@@ -13,12 +13,12 @@
   "27369ac930c946fe20679a887dfcfcc96ec73b59a7396f096d33d8adc939441f"
  ],
  "corrections": 2,
- "count": 91,
+ "count": 92,
  "identity_backfill_note": "captures/identity.jsonl adds filed/title per sha256 with method; receipts are never rewritten",
  "identity_backfill_records": 11,
  "ledger": "captures/ledger.jsonl",
- "ledger_bytes": 61692,
- "ledger_sha256": "78d2c564522c917f3248fa8caa8638ec9c55f7871f3558858aa64678774812fe",
+ "ledger_bytes": 62471,
+ "ledger_sha256": "3ca2c19d13fbaa3e7c25c52156d2c98c785276040f8e783c4433e6dcc74b103e",
  "schema": "evidence-capture-ledger-summary/1",
  "superseded": 0,
  "superseded_entries": {},
