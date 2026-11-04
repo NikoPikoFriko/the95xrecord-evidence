@@ -128,6 +128,7 @@ declared by the publication view, and the receipts copy those fields verbatim.
 | `1RC191003776:496:NA` | `8719ada165f96c1e` | 5 | 149,314 | `-4790310662820639479` | primary |
 | `1RC191003776:493:NEF` | `7ccd357f8143a636` | 2 | 25,479 | `2635906819850758348` | pending |
 | `1RC191003776:15:OT` | `efa1ddef4d93fae9` | 197 | 508,168 | `7379587633047722455` | pending |
+| `1RC191003776:17:OT` | `496bfdebc04a9e69` | 2 | 131,650 | `3090346545303160519` | pending |
 
 6 objects in 3 rendition groups. dkt 9 (1RC191003776) is the case that made
 this table necessary: `6f489905…` is 6 pages and `20ca4fda…` is 2 pages of the same DOC — different

@@ -1,0 +1,37 @@
+{
+ "schema": "evidence-receipt/1",
+ "sha256": "496bfdebc04a9e699d152ec7f7a46736e341a291d7734385dc829f7120b3659d",
+ "bytes": 131650,
+ "object_path": "sha256/496bfdebc04a9e699d152ec7f7a46736e341a291d7734385dc829f7120b3659d.pdf",
+ "case_recorded": "1RC191003776",
+ "docket_recorded": "17",
+ "docket_code_recorded": "OT",
+ "filed_recorded": "02-DEC-2019",
+ "pages_recorded": 2,
+ "pages_source": "ledger",
+ "title_recorded": "Other Certificate of Service Re: Third-Party Defendant Thyssenkrupp Elevator Corporation's First-Amended Objections and ",
+ "title_source": "jims-row",
+ "batch": "immediate publish after capture",
+ "published_at": "2026-11-04T08:40:49-10:00",
+ "publication_mode": "single-object (publish_one.py)",
+ "resolved_manifest_sha256": "bc95061d60e201c79fb4bc6508efd67ed51690be049e1b9d2c096b44740fd5c5",
+ "publication_view_sha256": "aff12991266f328b8dfa0f79c61478d710ea79034f3ef9e286c1df52f68cdd58",
+ "source": "JIMS",
+ "view_source": "capturer",
+ "rendition": "pending",
+ "rendition_of": [
+  "1216f6117eac5e2483716baa25f4575151d40b6771ec1253fe99e96262adf573"
+ ],
+ "rendition_group": "1RC191003776:17:OT",
+ "rendition_count": 2,
+ "rendition_source": "publication_view.jsonl (copied verbatim)",
+ "court": {
+  "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=3090346545303160519",
+  "url_host": "jimspss1.courts.state.hi.us",
+  "servlet": "regular",
+  "ads_verbatim": "[ZoneTransfer]\r\nZoneId=3\r\nReferrerUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface\r\nHostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=3090346545303160519\u0000",
+  "captured_at": "2026-11-04T08:38:02.001390-10:00"
+ },
+ "capture_receipt_path": "496bfdebc04a9e699d152ec7f7a46736e341a291d7734385dc829f7120b3659d.receipt.json",
+ "capture_receipt_sha256": "841e65862d600a8c636afa84b6aab303ba25977ba92e6f1c9d40811e05b5ae85"
+}
