@@ -2,7 +2,7 @@
  "count": 40,
  "entries": {
   "03b554f572a0afafcbb7bc606be342c8c36699cb3063aaa2fe48d9ac074ad09f": {
-   "captured_at": null,
+   "captured_at": "2026-11-03T22:34:56.378357-10:00",
    "case": "1RC191003776",
    "docket": "7",
    "kind": "regular",
@@ -233,7 +233,7 @@
    "status": "captured"
   },
   "8caeac19dd2101a9ec7d6f8371c46a93a58a4233a9df956c814ec855107f3d14": {
-   "captured_at": null,
+   "captured_at": "2026-11-03T22:32:02.851355-10:00",
    "case": "1RC191003776",
    "docket": "5",
    "kind": "regular",
@@ -369,7 +369,7 @@
   }
  },
  "ledger": "captures/ledger.jsonl",
- "ledger_sha256": "7abf2da0954a2efe1ec55bd069a5029cfc1a3d00db32aecee7c12833d7b6e455",
+ "ledger_sha256": "940ea2ac820b3fe4483617dc385eda10f4548ff59495b3c35faf8823eab37e77",
  "note": "append-only; a re-capture of different bytes creates a new entry that names the superseded one. See README.",
  "schema": "evidence-capture-ledger-index/1"
 }

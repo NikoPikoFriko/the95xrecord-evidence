@@ -10,9 +10,10 @@
   "url_host": "jimspss1.courts.state.hi.us",
   "servlet": "regular",
   "source_system": null,
-  "captured_at": null,
+  "captured_at": "2026-11-03T22:32:02.851355-10:00",
   "jims_session": null,
-  "ads_verbatim": "[ZoneTransfer]\nZoneId=3\nHostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-3115844995683487479\u0000"
+  "ads_verbatim": "[ZoneTransfer]\nZoneId=3\nHostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-3115844995683487479\u0000",
+  "captured_at_source": "capturer ledger field `ts` (recovered by enrich_receipts.py)"
  },
  "docket_recorded": "5",
  "row_index_recorded": null,
@@ -45,5 +46,11 @@
   "case": "1RC191003776",
   "pages_source": "recomputed from the staged file (pdfinfo/PDF page tree) - audit T60 K12",
   "audit_note": "T60 clean list; NUL stripped from court_url per K13"
+ },
+ "supersedes": {
+  "reason": "the previously published receipt omitted the capture timestamp",
+  "previous_receipt_sha256": "985588b87630d51e0d7e1509c007bb271cb674f2cf023d9fcd757d6dbb87aee0",
+  "previous_receipt_path": "receipts/8caeac19dd2101a9ec7d6f8371c46a93a58a4233a9df956c814ec855107f3d14.json",
+  "applied_at": "2026-11-03T22:32:02.851355-10:00"
  }
 }
