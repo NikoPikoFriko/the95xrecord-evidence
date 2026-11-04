@@ -5,7 +5,7 @@
  "object_path": "sha256/8d273740bfd1570fe0af78d1b03008e800076903c54371f936e71e1ed044c0eb.pdf",
  "case_recorded": "1RC191003776",
  "docket_recorded": "466",
- "docket_code_recorded": "MOT",
+ "docket_code_recorded": "NOCDA",
  "filed_recorded": "15-SEP-2026",
  "pages_recorded": 2,
  "pages_source": "ledger",
@@ -15,7 +15,7 @@
  "published_at": "2026-11-04T08:27:11-10:00",
  "publication_mode": "single-object (publish_one.py)",
  "resolved_manifest_sha256": "2872e26e637f6c75389f69993636fc24734faff486859da2d0253f431276e2fb",
- "publication_view_sha256": "4c41574e5c13015ce18897a6e009d119955055aab7886cc6482f98cb7077401f",
+ "publication_view_sha256": "b1a84e06a58c3972eba8e33daf69ba924b98efa966a094aef29f9614b73d1ac8",
  "source": "JIMS",
  "view_source": "capturer",
  "rendition": null,
@@ -31,5 +31,12 @@
   "captured_at": "2026-11-04T08:24:25.786029-10:00"
  },
  "capture_receipt_path": "8d273740bfd1570fe0af78d1b03008e800076903c54371f936e71e1ed044c0eb.receipt.json",
- "capture_receipt_sha256": "e9fcb9c0cbe578988ccca6faea87861de82b9bcc1858f313f386c6905f9ce17b"
+ "capture_receipt_sha256": "e9fcb9c0cbe578988ccca6faea87861de82b9bcc1858f313f386c6905f9ce17b",
+ "supersedes": {
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "fa00c00a6ea1ddc03f3094839e15152b4a890286a78512b2d519a861137c8350",
+  "previous_receipt_path": "receipts/8d273740bfd1570fe0af78d1b03008e800076903c54371f936e71e1ed044c0eb.json"
+ },
+ "corrected_at": "2026-11-04T08:44:34-1000",
+ "view_pin_verified": true
 }

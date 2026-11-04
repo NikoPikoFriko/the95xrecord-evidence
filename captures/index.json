@@ -846,7 +846,7 @@
   }
  },
  "ledger": "captures/ledger.jsonl",
- "ledger_sha256": "77f9f8e7659106fffeda7e9a02df85cd8ac6a95cc4d5b1c7b20333ff35d4582d",
+ "ledger_sha256": "b79ce0b0f177bef162543bc3a510cf5aba6ad87807f25415838481578f94e3fc",
  "note": "append-only; a re-capture of different bytes creates a new entry that names the superseded one. See README.",
  "schema": "evidence-capture-ledger-index/1"
 }
