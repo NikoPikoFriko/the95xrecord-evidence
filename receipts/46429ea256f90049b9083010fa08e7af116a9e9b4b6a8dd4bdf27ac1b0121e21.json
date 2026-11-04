@@ -3,10 +3,10 @@
  "sha256": "46429ea256f90049b9083010fa08e7af116a9e9b4b6a8dd4bdf27ac1b0121e21",
  "bytes": 156010,
  "object_path": "sha256/46429ea256f90049b9083010fa08e7af116a9e9b4b6a8dd4bdf27ac1b0121e21.pdf",
- "case_recorded": "1RC191003776",
+ "case_recorded": "CAAP-26-0000625",
  "docket_recorded": "19",
  "docket_code_recorded": "AMRA",
- "filed_recorded": "06-JAN-2020",
+ "filed_recorded": "29-OCT-2026",
  "pages_recorded": 5,
  "pages_source": "ledger",
  "title_recorded": "\"Mot -Default Judg/Summary Judg Thyssenkrupp Elevator Corporation's Motion for Summary Judgment on the Third-Party Compl",
@@ -15,7 +15,7 @@
  "published_at": "2026-11-04T08:39:21-10:00",
  "publication_mode": "single-object (publish_one.py)",
  "resolved_manifest_sha256": "bc95061d60e201c79fb4bc6508efd67ed51690be049e1b9d2c096b44740fd5c5",
- "publication_view_sha256": "b1a84e06a58c3972eba8e33daf69ba924b98efa966a094aef29f9614b73d1ac8",
+ "publication_view_sha256": "eeffc412432dfd4ef936fe45b7da89ba033de645f6cd8669c01e0dd1f7625a04",
  "source": "JIMS",
  "view_source": "capturer",
  "rendition": "pending",
@@ -36,9 +36,9 @@
  "capture_receipt_sha256": "ca99c85c0eb8e36aba752fa70e043bcb3074c0b0501ab8eb860be58c1cfb1906",
  "supersedes": {
   "reason": "re-pin to the rebuilt publication view",
-  "previous_receipt_sha256": "86556fd92472da6e680d635e2bd16e5d1f3c623bad8bf4a2206465c94f2e9c4c",
+  "previous_receipt_sha256": "bbee55bd4b800291b9fec939cac28ca938a77487d7af4253c9f20fd3727fd54f",
   "previous_receipt_path": "receipts/46429ea256f90049b9083010fa08e7af116a9e9b4b6a8dd4bdf27ac1b0121e21.json"
  },
- "corrected_at": "2026-11-04T08:44:34-1000",
+ "corrected_at": "2026-11-04T08:45:50-1000",
  "view_pin_verified": true
 }
