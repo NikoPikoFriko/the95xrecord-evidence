@@ -28,13 +28,14 @@
   "url_host": "jimspss1.courts.state.hi.us",
   "servlet": "regular",
   "ads_verbatim": "[ZoneTransfer]\r\nZoneId=3\r\nHostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-702025660265980255\u0000",
-  "captured_at": null
+  "captured_at": "2026-11-04T06:46:39.077254-10:00",
+  "captured_at_source": "ledger_resolved.jsonl (ts) — filled after publish_one published without it"
  },
  "capture_receipt_path": "89bf637abbdfa9611d0108ae54fec5760d0d9805e03b9b5d02120a3f216870dc.receipt.json",
  "capture_receipt_sha256": "a69cfe77b0a0f9cb43228f3ebceccd09239ba3e0ac21e694e6e879ef0a51dcc6",
  "supersedes": {
-  "reason": "re-pin to the rebuilt publication view",
-  "previous_receipt_sha256": "5779f1e981d03c493f781e170482d15ba5227369aad701e70a4377e0a28be5fd",
+  "reason": "capture timestamp completed from the resolved ledger",
+  "previous_receipt_sha256": "17fd2c75c2251696f9cc12e1464e9ae1bc4f5398f5a06be53ad30b06b8eb8604",
   "previous_receipt_path": "receipts/89bf637abbdfa9611d0108ae54fec5760d0d9805e03b9b5d02120a3f216870dc.json"
  },
  "view_pin_verified": true
