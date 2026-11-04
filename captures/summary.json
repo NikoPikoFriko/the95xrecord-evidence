@@ -18,7 +18,7 @@
  "identity_backfill_records": 11,
  "ledger": "captures/ledger.jsonl",
  "ledger_bytes": 59553,
- "ledger_sha256": "152aeb607b9960bdd31069015147bae4cd24485ae9cc4f59c30bc8514b5ef583",
+ "ledger_sha256": "a9b35bcceefbb414470758fe0c2564ad677769990d742642f3c1ba12bc06907e",
  "schema": "evidence-capture-ledger-summary/1",
  "superseded": 0,
  "superseded_entries": {},
