@@ -1,6 +1,15 @@
 {
- "count": 38,
+ "count": 40,
  "entries": {
+  "03b554f572a0afafcbb7bc606be342c8c36699cb3063aaa2fe48d9ac074ad09f": {
+   "captured_at": null,
+   "case": "1RC191003776",
+   "docket": "7",
+   "kind": "regular",
+   "object": "sha256/03b554f572a0afafcbb7bc606be342c8c36699cb3063aaa2fe48d9ac074ad09f.pdf",
+   "receipt": "receipts/03b554f572a0afafcbb7bc606be342c8c36699cb3063aaa2fe48d9ac074ad09f.json",
+   "status": "captured"
+  },
   "04950d932731a1f9c467aefd0dcd5eb48379626c6cb64b6a8f625221c5694e20": {
    "captured_at": "2026-11-03T18:54:01.1299988-10:00",
    "case": "CAAP-26-0000625",
@@ -223,6 +232,15 @@
    "receipt": "receipts/87f5b65e406ef146c7ea5f56e03b05c9b735a293af72af4a5286f31a0a1f1c37.json",
    "status": "captured"
   },
+  "8caeac19dd2101a9ec7d6f8371c46a93a58a4233a9df956c814ec855107f3d14": {
+   "captured_at": null,
+   "case": "1RC191003776",
+   "docket": "5",
+   "kind": "regular",
+   "object": "sha256/8caeac19dd2101a9ec7d6f8371c46a93a58a4233a9df956c814ec855107f3d14.pdf",
+   "receipt": "receipts/8caeac19dd2101a9ec7d6f8371c46a93a58a4233a9df956c814ec855107f3d14.json",
+   "status": "captured"
+  },
   "9244cf8daa323bd18ae84de9824463938e3425180807d51806ba7aad280f4de0": {
    "captured_at": "2026-11-03T20:51:35-10:00",
    "case": "CAAP-26-0000625",
@@ -351,7 +369,7 @@
   }
  },
  "ledger": "captures/ledger.jsonl",
- "ledger_sha256": "17471b33757ba3d9fbc4d7584b0da5f1f6c25993e39d304fbdb29e4dbd511e72",
+ "ledger_sha256": "7abf2da0954a2efe1ec55bd069a5029cfc1a3d00db32aecee7c12833d7b6e455",
  "note": "append-only; a re-capture of different bytes creates a new entry that names the superseded one. See README.",
  "schema": "evidence-capture-ledger-index/1"
 }
