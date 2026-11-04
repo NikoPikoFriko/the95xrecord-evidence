@@ -1,0 +1,305 @@
+{
+ "schema": "legacy-export/v1",
+ "source_commit": "9f12298",
+ "generated_at": "2026-11-04T08:35:00-10:00",
+ "note": "bytes published in a bulk export before the capture ledger existed; NOT capture provenance",
+ "rule": "an object listed here is exempt from the receipt/ledger/view requirement of check #16 ONLY; it is never treated as a capture, and a listed object that later gains a receipt is a consistency error (the exception must be removed, not silently kept)",
+ "objects": [
+  {
+   "sha256": "031de4cadb30cbb466e8bbb99f285b8e28aea701a18a035f99ee88599a73c0f3",
+   "docket": "482",
+   "document_name": "2026-09-30__1RC191003776__DKT__DKT0482-MTWC__other__SRC__h031de4cadb30.pdf",
+   "bytes": 244444,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "09857f2dbd1fce983cdb6aded0ae9a0b2ee2fbe47e03f180d98ff63089e9d797",
+   "docket": "477",
+   "document_name": "2026-09-22__1RC191003776__DKT__DKT0477-NEF__notice-for-dkt476__SRC__h09857f2dbd1f.pdf",
+   "bytes": 25410,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "121e89213320b3599e174cfbfd39af218097959910477d15a695eeca5cc4c007",
+   "docket": "468",
+   "document_name": "2026-09-15__1RC191003776__DKT__DKT0468-NTCE__docket-text__SRC__h121e89213320.pdf",
+   "bytes": 649769,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "1e1b414d842a42bcecb9a468dcb9cda51e68220db0b7f0a6a1d65a253e12038f",
+   "docket": "438",
+   "document_name": "2026-08-20__1RC191003776__DKT__DKT0438-NEF__nef-for-dkt437__CERT__h1e1b414d842a.pdf",
+   "bytes": 25458,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "2ddd2057b0fa15cb4f08fab7812eebba580e155cec6b78504ffb9aff53912cbe",
+   "docket": "475",
+   "document_name": "2026-09-21__1RC191003776__DKT__DKT0475-NEF__notice-for-dkt474__SRC__h2ddd2057b0fa.pdf",
+   "bytes": 25674,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "30f4f2bf7f4e16fc4375c48df9fb1a63a09c10078a93824c29711875586f1976",
+   "docket": "466",
+   "document_name": "2026-09-15__1RC191003776__DKT__DKT0466-NOCDA__docket-text__SRC__h30f4f2bf7f4e.pdf",
+   "bytes": 25088,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "46429ea256f90049b9083010fa08e7af116a9e9b4b6a8dd4bdf27ac1b0121e21",
+   "docket": "19",
+   "document_name": "2026-10-29__CAAP-26-0000625__DKT__DKT0019-AMRA__amended-record-on-appeal__SRC__h46429ea256f9.pdf",
+   "bytes": 156010,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "496bfdebc04a9e699d152ec7f7a46736e341a291d7734385dc829f7120b3659d",
+   "docket": "17",
+   "document_name": "2026-10-28__CAAP-26-0000625__DKT__DKT0017-NC__notice-of-entering-case-on-calendar__SRC__h496bfdebc04a.pdf",
+   "bytes": 131650,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "50fd42142fa4a85d11e5299b1d397927763386efb6fa35632d6f81088581ca8a",
+   "docket": "411",
+   "document_name": "2024-10-29__1RC191003776__DKT__DKT0411-STIP__proposed-stipulation-and-order-regarding-continuance-of-hear__SRC__h50fd42142fa4.pdf",
+   "bytes": 234930,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "52e35e32402ef93007b562b1a31ffaf5e1bcde3b5607a0e280576fa3f2bdc7fb",
+   "docket": "473",
+   "document_name": "2026-09-21__1RC191003776__DKT__DKT0473-NEF__notice-for-dkt472__SRC__h52e35e32402e.pdf",
+   "bytes": 25693,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "602a3e102b18447df8617721baea40252168a707a44177e40dd37540b1285fea",
+   "docket": "437",
+   "document_name": "2026-08-20__1RC191003776__DKT__DKT0437-DOC__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-e__CERT__h602a3e102b18.pdf",
+   "bytes": 8290896,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "6a42daab86aca7a3e71c60af5649c5683cab1bdbe4d1d5298d9e909832428ecd",
+   "docket": "434",
+   "document_name": "2026-08-19__1RC191003776__DKT__DKT0434-NEF__nef-for-dkt431__CERT__h6a42daab86ac.pdf",
+   "bytes": 25749,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "6c24e855bc64908ee2f81147f4ec289ffda5a6127946d0c362300b27d758340c",
+   "docket": "427",
+   "document_name": "2026-06-23__1RC191003776__DKT__DKT0427-JDG__judgment-granted-by-judge-c-thomas-pm__SRC__h6c24e855bc64.pdf",
+   "bytes": 410074,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "6e6e1f0c8217bad9eb1188cf487fec90e7b276fbe8fbf53e8089f92fecacdaea",
+   "docket": "435",
+   "document_name": "2026-08-20__1RC191003776__DKT__DKT0435-DOC__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-s__CERT__h6e6e1f0c8217.pdf",
+   "bytes": 2940805,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "6e956ef1189c1092e1ba5d002cf7aa777be88fd3c959ade0a0d10835202cdfed",
+   "docket": "492",
+   "document_name": "2026-10-21__1RC191003776__DKT__DKT0492-DOC__order-denying-extend-time-dkt442-stricken__SRC__h6e956ef1189c.pdf",
+   "bytes": 1068894,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "7ccd357f8143a6364299cba1df8b244bd9b94736db4c1b94101f0cab125558e7",
+   "docket": "493",
+   "document_name": "2026-10-21__1RC191003776__DKT__DKT0493-NEF__nef-for-order-dkt492-stricken__CERT__h7ccd357f8143.pdf",
+   "bytes": 25479,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "8274872a883717f0f3d03fc5db926e34bd5872b31d283fddfb3ebae363468b47",
+   "docket": "474",
+   "document_name": "2026-09-21__1RC191003776__DKT__DKT0474-MEO__plaintiff-opposition__SRC__h8274872a8837.pdf",
+   "bytes": 249657,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "8719ada165f96c1eff2040c0312bd6c7adf19871f3702fdf865b5ace5d04b94e",
+   "docket": "496",
+   "document_name": "2026-09-04__1RC191003776__DKT__DKT0496-NA__notice-of-appeal-caap-26-625__CERT__h8719ada165f9.pdf",
+   "bytes": 149314,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "8c316ed47a30bb5701fb6441a61675b0ebc1757e2cd8f1640190855a47887635",
+   "docket": "396",
+   "document_name": "2024-01-31__1RC191003776__DKT__DKT0396-FOF__findings-of-fact-conclusions-of-law-and-order-granting-plain__SRC__h8c316ed47a30.pdf",
+   "bytes": 324907,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "8c3643e96138adb9e434ba420db4d49c69e7e5038ddfdf6a656af043d4fa9b79",
+   "docket": "483",
+   "document_name": "2026-09-30__1RC191003776__DKT__DKT0483-NEF__other__SRC__h8c3643e96138.pdf",
+   "bytes": 25621,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "918d3d734577f4300fb49f1dbba360be2e2e4a05ac7c3ba85ba51197682165dc",
+   "docket": "423",
+   "document_name": "2026-06-15__1RC191003776__DKT__DKT0423-ORD__order-granting-in-part-and-denying-in-part-plaintiff-and-cou__CERT__h918d3d734577.pdf",
+   "bytes": 3884597,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "9609fa6a85a46284d5ef21a2ceb3fc2dbb3e6a9429b3bc414b36540a1c126bee",
+   "docket": "436",
+   "document_name": "2026-08-20__1RC191003776__DKT__DKT0436-NEF__nef-for-dkt435__CERT__h9609fa6a85a4.pdf",
+   "bytes": 25448,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "a12173759fff3b987e41a8e1e28c9dcaa6f4d60dd9f56408fd3d3e25510f081d",
+   "docket": "114",
+   "document_name": "2020-09-25__1RC191003776__DKT__DKT0114-ORD__order-granting-in-part-and-denying-in-part-plaintiff-counter__SRC__ha12173759fff.pdf",
+   "bytes": 695056,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "a6c06756ea15df09f07b4eed5c9a608af98366c7a452e1ee81951f60734f193f",
+   "docket": "451",
+   "document_name": "2026-08-31__1RC191003776__DKT__DKT0451-MEO__counterclaim-defendant-association-of-apartment-owners-of-ma__SRC__ha6c06756ea15.pdf",
+   "bytes": 625537,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "a9c267f03e7efd9b044c5117b4938b3ea094316adfb8d3d3e3959aa50d49c70e",
+   "docket": "478",
+   "document_name": "2026-09-24__1RC191003776__DKT__DKT0478-SCON__other__SRC__ha9c267f03e7e.pdf",
+   "bytes": 208886,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "b51168607348826b57e172968963dd67de8e1364e7cf215146eba4d652fa21a0",
+   "docket": "476",
+   "document_name": "2026-09-22__1RC191003776__DKT__DKT0476-SCON__stipulation-continuance__SRC__hb51168607348.pdf",
+   "bytes": 108046,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "b6a16e25701f0c6271105bf0ac927b2653d6f7fd878407553c89d0a23fc3ed8f",
+   "docket": "467",
+   "document_name": "2026-09-15__1RC191003776__DKT__DKT0467-NOCDA__docket-text__SRC__hb6a16e25701f.pdf",
+   "bytes": 25088,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "b7e0258c564853f2269afc590bf35d14a9d14e785a746828e586668ee91b4784",
+   "docket": "479",
+   "document_name": "2026-09-24__1RC191003776__DKT__DKT0479-NEF__nef-for-dkt478__CERT__hb7e0258c5648.pdf",
+   "bytes": 25435,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "b995effe382f146a7a001f719634921a8023cb38fd9dc313212644ebbe227484",
+   "docket": "441",
+   "document_name": "2026-08-24__1RC191003776__DKT__DKT0441-MOT__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-s__SRC__hb995effe382f.pdf",
+   "bytes": 133631,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "c811499ac3013904e85785f4c522af40384bb9a96a0680dae8784c3b8aa86d03",
+   "docket": "134",
+   "document_name": "2020-11-18__1RC191003776__DKT__DKT0134-ORD__granted-final-judgment-in-favor-of-thyssenkrupp-elevator-cor__SRC__hc811499ac301.pdf",
+   "bytes": 699893,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "dbf3d15a8d8426debb0f866f9195f26385278f936dbdd9e00e82490371d211e1",
+   "docket": "132",
+   "document_name": "2020-11-17__1RC191003776__DKT__DKT0132-ORDG__order-granting-third-party-defendant-thyssenkrupp-elevator-c__SRC__hdbf3d15a8d84.pdf",
+   "bytes": 703644,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "df85f2abfcb49468656671e85442f394847a3efd3297343d996bb093738e103d",
+   "docket": "334",
+   "document_name": "2022-08-05__1RC191003776__DKT__DKT0334-SCON__stipulation-for-continuance__SRC__hdf85f2abfcb4.pdf",
+   "bytes": 412656,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "e709cc96578bed4cdb522c0972dc196936723f3f5697be92dcbdba26b307028a",
+   "docket": "492",
+   "document_name": "2026-10-21__1RC191003776__DKT__DKT0492-DOC__order-denying-extend-time-dkt442-stricken__CERT__he709cc96578b.pdf",
+   "bytes": 1087560,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "efa1ddef4d93fae99c43fd324504cc7c433ff4cbc89d60d39ec687380f1114b1",
+   "docket": "15",
+   "document_name": "2026-10-28__CAAP-26-0000625__DKT__DKT0015-RA__record-on-appeal__SRC__hefa1ddef4d93.pdf",
+   "bytes": 508168,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "f2ab1217077a85d6aa76a31744e38a94d76153626d71c157120431288a8b671e",
+   "docket": "413",
+   "document_name": "2024-11-06__1RC191003776__DKT__DKT0413-STIP__approved-and-so-ordered-stipulation-and-order-regarding-cont__SRC__hf2ab1217077a.pdf",
+   "bytes": 736226,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "f9f0041c14fa78b7768dbf47ea80aac9d1aa5cffe2dc3314848afb7625dc75c2",
+   "docket": "336",
+   "document_name": "2022-08-05__1RC191003776__DKT__DKT0336-SCON__granted-stipulation-for-continuance__SRC__hf9f0041c14fa.pdf",
+   "bytes": 624409,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  },
+  {
+   "sha256": "fc277661b59f28486d57a9558fa13841bd08c5554cdcb0dfc991bd218f120f0d",
+   "docket": "244",
+   "document_name": "2021-12-29__1RC191003776__DKT__DKT0244-ORDG__granted-order-granting-ex-parte-motion-to-shorten-time-to-he__SRC__hfc277661b59f.pdf",
+   "bytes": 443630,
+   "added_by_commit": "9f12298",
+   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
+  }
+ ]
+}

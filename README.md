@@ -114,3 +114,12 @@ Publication verified after the push by **re-downloading every object from this r
 served bytes** — see `PUBLIC_BYTES_REPORT.md` on the station for the per-file table.
 
 *No credentials, tokens or private data are present in this repository.*
+
+## Legacy export (outside the capture ledger)
+
+37 files in `sha256/` were published by the bulk export commit `9f12298` before the capture procedure
+existed: they have **no receipt, no ADS and no capture-ledger row**, and their bytes are public and
+mirror-verified but **are not evidence of capture**. They are declared (never receipted) in
+[`LEGACY_EXPORT.json`](LEGACY_EXPORT.json), explained in [`LEGACY_EXPORT.md`](LEGACY_EXPORT.md), and
+accepted by `verify_installation.py` check #16 only when listed there with a reason — anything else is a
+failure. Do not add receipts for them: a receipt must prove a capture that never happened.
