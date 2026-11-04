@@ -1,0 +1,180 @@
+{
+ "count": 19,
+ "entries": {
+  "04950d932731a1f9c467aefd0dcd5eb48379626c6cb64b6a8f625221c5694e20": {
+   "captured_at": "2026-11-03T18:54:01.1299988-10:00",
+   "case": "CAAP-26-0000625",
+   "docket": "14",
+   "kind": "regular",
+   "object": "sha256/04950d932731a1f9c467aefd0dcd5eb48379626c6cb64b6a8f625221c5694e20.pdf",
+   "receipt": "receipts/04950d932731a1f9c467aefd0dcd5eb48379626c6cb64b6a8f625221c5694e20.json",
+   "status": "captured"
+  },
+  "267462accd55e8f6788ab93cc1439f35e529592ce437f543ec8a87c977581a13": {
+   "captured_at": "2026-11-03T18:49:31.9484939-10:00",
+   "case": "1RC191003776",
+   "docket": "ICA",
+   "kind": "certified",
+   "object": "sha256/267462accd55e8f6788ab93cc1439f35e529592ce437f543ec8a87c977581a13.pdf",
+   "receipt": "receipts/267462accd55e8f6788ab93cc1439f35e529592ce437f543ec8a87c977581a13.json",
+   "status": "captured"
+  },
+  "27369ac930c946fe20679a887dfcfcc96ec73b59a7396f096d33d8adc939441f": {
+   "captured_at": "2026-11-03T18:49:58.7677620-10:00",
+   "case": "1RC191003776",
+   "docket": "ICA",
+   "kind": "regular",
+   "object": "sha256/27369ac930c946fe20679a887dfcfcc96ec73b59a7396f096d33d8adc939441f.pdf",
+   "receipt": "receipts/27369ac930c946fe20679a887dfcfcc96ec73b59a7396f096d33d8adc939441f.json",
+   "status": "captured"
+  },
+  "40ca44e68ef32dc013b2f5264c2c699f07dd42cc73db507353a0a2deafe5ce43": {
+   "captured_at": "2026-11-03T18:54:25.5785338-10:00",
+   "case": "CAAP-26-0000625",
+   "docket": "16",
+   "kind": "certified",
+   "object": "sha256/40ca44e68ef32dc013b2f5264c2c699f07dd42cc73db507353a0a2deafe5ce43.pdf",
+   "receipt": "receipts/40ca44e68ef32dc013b2f5264c2c699f07dd42cc73db507353a0a2deafe5ce43.json",
+   "status": "captured"
+  },
+  "4a74160df75c3cd1660b26b35b5dc691880421947c83754702229713e5e3db61": {
+   "captured_at": "2026-11-03T18:53:10.2295225-10:00",
+   "case": "CAAP-26-0000625",
+   "docket": "7",
+   "kind": "regular",
+   "object": "sha256/4a74160df75c3cd1660b26b35b5dc691880421947c83754702229713e5e3db61.pdf",
+   "receipt": "receipts/4a74160df75c3cd1660b26b35b5dc691880421947c83754702229713e5e3db61.json",
+   "status": "captured"
+  },
+  "5ed5e1968bcfcf28aca91881e5957d9a0e20626858ebaee116f24ee33c88bef6": {
+   "captured_at": "2026-11-03T13:50:58.1512408-10:00",
+   "case": "1RC191003776",
+   "docket": "496",
+   "kind": "regular",
+   "object": "sha256/5ed5e1968bcfcf28aca91881e5957d9a0e20626858ebaee116f24ee33c88bef6.pdf",
+   "receipt": "receipts/5ed5e1968bcfcf28aca91881e5957d9a0e20626858ebaee116f24ee33c88bef6.json",
+   "status": "captured"
+  },
+  "65100c89cd2be4e58decd8ecba9cd581d24b7a8db31a25b7f269d4072cd1576e": {
+   "captured_at": "2026-11-03T19:49:20.3510427-10:00",
+   "case": "1RC191003776",
+   "docket": "498",
+   "kind": "regular",
+   "object": "sha256/65100c89cd2be4e58decd8ecba9cd581d24b7a8db31a25b7f269d4072cd1576e.pdf",
+   "receipt": "receipts/65100c89cd2be4e58decd8ecba9cd581d24b7a8db31a25b7f269d4072cd1576e.json",
+   "status": "captured"
+  },
+  "66751c57d1a44719b0e33f02ee6c73086343189afa79953e086bd21723fca71e": {
+   "captured_at": "2026-11-03T18:58:34.1031035-10:00",
+   "case": "CAAP-26-0000625",
+   "docket": "17",
+   "kind": "certified",
+   "object": "sha256/66751c57d1a44719b0e33f02ee6c73086343189afa79953e086bd21723fca71e.pdf",
+   "receipt": "receipts/66751c57d1a44719b0e33f02ee6c73086343189afa79953e086bd21723fca71e.json",
+   "status": "captured"
+  },
+  "72bb68d9ebd2c570164a67d009f46268104c1b64bc450c3a1e7b7cd8485c4f0b": {
+   "captured_at": "2026-11-03T19:52:03.2024979-10:00",
+   "case": "1RC191003776",
+   "docket": "500",
+   "kind": "regular",
+   "object": "sha256/72bb68d9ebd2c570164a67d009f46268104c1b64bc450c3a1e7b7cd8485c4f0b.pdf",
+   "receipt": "receipts/72bb68d9ebd2c570164a67d009f46268104c1b64bc450c3a1e7b7cd8485c4f0b.json",
+   "status": "captured"
+  },
+  "751646b64c6aeb2414a90c4510be3a6795f3f1133a84bfa472f39ef8b74158d5": {
+   "captured_at": "2026-11-03T19:50:48.9134971-10:00",
+   "case": "1RC191003776",
+   "docket": "499",
+   "kind": "regular",
+   "object": "sha256/751646b64c6aeb2414a90c4510be3a6795f3f1133a84bfa472f39ef8b74158d5.pdf",
+   "receipt": "receipts/751646b64c6aeb2414a90c4510be3a6795f3f1133a84bfa472f39ef8b74158d5.json",
+   "status": "captured"
+  },
+  "7c7978910396cbbd03f5e481b326ba7499ecf8d1b5a946006c05b80aa1b46472": {
+   "captured_at": "2026-11-03T19:56:38.1660548-10:00",
+   "case": "1RC191003776",
+   "docket": "502",
+   "kind": "regular",
+   "object": "sha256/7c7978910396cbbd03f5e481b326ba7499ecf8d1b5a946006c05b80aa1b46472.pdf",
+   "receipt": "receipts/7c7978910396cbbd03f5e481b326ba7499ecf8d1b5a946006c05b80aa1b46472.json",
+   "status": "captured"
+  },
+  "87f5b65e406ef146c7ea5f56e03b05c9b735a293af72af4a5286f31a0a1f1c37": {
+   "captured_at": "2026-11-03T18:59:03.4531128-10:00",
+   "case": "CAAP-26-0000625",
+   "docket": "19",
+   "kind": "certified",
+   "object": "sha256/87f5b65e406ef146c7ea5f56e03b05c9b735a293af72af4a5286f31a0a1f1c37.pdf",
+   "receipt": "receipts/87f5b65e406ef146c7ea5f56e03b05c9b735a293af72af4a5286f31a0a1f1c37.json",
+   "status": "captured"
+  },
+  "937ceb5dfc2465cb97f2c576c1139fb04ca987f32f797fbc679cc14ad49b80ed": {
+   "captured_at": "2026-11-03T19:54:28.9262884-10:00",
+   "case": "1RC191003776",
+   "docket": "501",
+   "kind": "regular",
+   "object": "sha256/937ceb5dfc2465cb97f2c576c1139fb04ca987f32f797fbc679cc14ad49b80ed.pdf",
+   "receipt": "receipts/937ceb5dfc2465cb97f2c576c1139fb04ca987f32f797fbc679cc14ad49b80ed.json",
+   "status": "captured"
+  },
+  "ad3ebc5c1054421a680b2dc4b03f752d09a98b2fe814d7aee423f517a820ba76": {
+   "captured_at": "2026-11-03T18:53:39.0306554-10:00",
+   "case": "CAAP-26-0000625",
+   "docket": "9",
+   "kind": "regular",
+   "object": "sha256/ad3ebc5c1054421a680b2dc4b03f752d09a98b2fe814d7aee423f517a820ba76.pdf",
+   "receipt": "receipts/ad3ebc5c1054421a680b2dc4b03f752d09a98b2fe814d7aee423f517a820ba76.json",
+   "status": "captured"
+  },
+  "afda0dbbbd371f6e1a27da6f7d57e8b690520a791cc92c4d09dc835c44f1fb83": {
+   "captured_at": "2026-11-03T19:45:42.5307653-10:00",
+   "case": "1RC191003776",
+   "docket": "496",
+   "kind": "regular",
+   "object": "sha256/afda0dbbbd371f6e1a27da6f7d57e8b690520a791cc92c4d09dc835c44f1fb83.pdf",
+   "receipt": "receipts/afda0dbbbd371f6e1a27da6f7d57e8b690520a791cc92c4d09dc835c44f1fb83.json",
+   "status": "captured"
+  },
+  "b7c272005399c56954bf5d1c51bc68bc49540f5412e072decf9f9ad89f8b912b": {
+   "captured_at": "2026-11-03T18:54:51.7959050-10:00",
+   "case": "CAAP-26-0000625",
+   "docket": "18",
+   "kind": "certified",
+   "object": "sha256/b7c272005399c56954bf5d1c51bc68bc49540f5412e072decf9f9ad89f8b912b.pdf",
+   "receipt": "receipts/b7c272005399c56954bf5d1c51bc68bc49540f5412e072decf9f9ad89f8b912b.json",
+   "status": "captured"
+  },
+  "c38308661b3eb31e0130e4a16c1c032b1c52a19e239698440afd8d6461e1fb07": {
+   "captured_at": "2026-11-03T19:57:50.1441183-10:00",
+   "case": "1RC191003776",
+   "docket": "503",
+   "kind": "regular",
+   "object": "sha256/c38308661b3eb31e0130e4a16c1c032b1c52a19e239698440afd8d6461e1fb07.pdf",
+   "receipt": "receipts/c38308661b3eb31e0130e4a16c1c032b1c52a19e239698440afd8d6461e1fb07.json",
+   "status": "captured"
+  },
+  "d89cf0acf0bd7e8c60c2548492ef75f6ddcd34f9df35731208914d57c3f3aba6": {
+   "captured_at": "2026-11-03T18:58:14.5113653-10:00",
+   "case": "CAAP-26-0000625",
+   "docket": "15",
+   "kind": "certified",
+   "object": "sha256/d89cf0acf0bd7e8c60c2548492ef75f6ddcd34f9df35731208914d57c3f3aba6.pdf",
+   "receipt": "receipts/d89cf0acf0bd7e8c60c2548492ef75f6ddcd34f9df35731208914d57c3f3aba6.json",
+   "status": "captured"
+  },
+  "ffaecdd198f2f4735814eb1a1d214be03995e5708b1579f66a4c4a6e89f4a8f5": {
+   "captured_at": "2026-11-03T19:47:10.3295173-10:00",
+   "case": "1RC191003776",
+   "docket": "497",
+   "kind": "regular",
+   "object": "sha256/ffaecdd198f2f4735814eb1a1d214be03995e5708b1579f66a4c4a6e89f4a8f5.pdf",
+   "receipt": "receipts/ffaecdd198f2f4735814eb1a1d214be03995e5708b1579f66a4c4a6e89f4a8f5.json",
+   "status": "captured"
+  }
+ },
+ "ledger": "captures/ledger.jsonl",
+ "ledger_sha256": "25fb670b9236b845b2845d70034730e15fdd301fbaa5d91ff2793d84b911fd89",
+ "note": "append-only; a re-capture of different bytes creates a new entry that names the superseded one. See README.",
+ "schema": "evidence-capture-ledger-index/1"
+}

@@ -26,6 +26,8 @@ records and derived indexes of them, nothing else.
 | `receipts/index.json` | machine index: `sha256 → {docket, code, filed, tier, servlet_url, captured_at}` |
 | `RECEIPTS.md` | the 5-step verification recipe, and the honest limit of what a receipt proves |
 | `RECEIPTS_MANIFEST.sha256` | `sha256sum -c` file over `receipts/` |
+| `captures/ledger.jsonl` | **the permanent capture ledger** — one append-only line per captured sha256: identity, sha256, bytes, pages, kind, court URL, captured_at, receipt + object path, status |
+| `captures/index.json`, `captures/summary.json` | machine index and counts for the ledger |
 
 **Totals:** 80 objects · 50,453,826 bytes · 80 unique hashes (no two documents share a hash).
 Extension mix: 75 `.pdf`, 2 `.txt`, 2 `.md`, 1 `.csv`.
@@ -72,6 +74,12 @@ is evidence of **where the bytes were retrieved from at that timestamp, in that 
 the URL works anonymously today. The bytes themselves are proven separately and unconditionally: the filename is
 their SHA-256. Receipts are append-only; a correction is a new receipt that names the one it supersedes.
 See [`RECEIPTS.md`](RECEIPTS.md).
+
+**The capture invariant:** *a document captured once with a court receipt is published permanently, and every
+later run skips what is already in `captures/ledger.jsonl` — nothing is ever re-fetched from the court or
+re-published.* If the same document later arrives with **different bytes**, that is a **new** ledger entry marked
+`superseded_by` pointing at the new one; the previous entry stays in the file forever. The ledger has no deletions
+and no edits to its identity/hash/bytes fields.
 
 ## What this repo is not
 

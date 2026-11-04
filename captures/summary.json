@@ -1,0 +1,19 @@
+{
+ "by_kind": {
+  "certified": 6,
+  "regular": 13
+ },
+ "captured": 19,
+ "cases": [
+  "1RC191003776",
+  "CAAP-26-0000625"
+ ],
+ "count": 19,
+ "ledger": "captures/ledger.jsonl",
+ "ledger_bytes": 13200,
+ "ledger_sha256": "25fb670b9236b845b2845d70034730e15fdd301fbaa5d91ff2793d84b911fd89",
+ "schema": "evidence-capture-ledger-summary/1",
+ "superseded": 0,
+ "superseded_entries": {},
+ "superseded_targets_without_receipt": []
+}
