@@ -4,9 +4,9 @@
  "bytes": 217240,
  "object_path": "sha256/768271d05442425f9b6b870d6037af5e7ec17cd276e0140cae1a5fbf7f6480e4.pdf",
  "case_recorded": "1RC191003776",
- "docket_recorded": "8",
- "docket_code_recorded": "ROS",
- "filed_recorded": "18-JUL-2019",
+ "docket_recorded": "411",
+ "docket_code_recorded": "STIP",
+ "filed_recorded": "29-OCT-2024",
  "pages_recorded": 6,
  "pages_source": "ledger",
  "title_recorded": null,
@@ -15,7 +15,7 @@
  "published_at": "2026-11-04T08:12:20-10:00",
  "publication_mode": "single-object (publish_one.py)",
  "resolved_manifest_sha256": "738442ac96cad96aa520c154a4b37e77746aa20b157ccf773533e4e8ccbd569a",
- "publication_view_sha256": "f80570dd239c78a600d468cb406cbad108525fbc94ef3a593296040dca6dd53c",
+ "publication_view_sha256": "eeffc412432dfd4ef936fe45b7da89ba033de645f6cd8669c01e0dd1f7625a04",
  "source": "JIMS",
  "view_source": "capturer",
  "rendition": null,
@@ -31,5 +31,12 @@
   "captured_at": "2026-11-04T08:10:18.876937-10:00"
  },
  "capture_receipt_path": "768271d05442425f9b6b870d6037af5e7ec17cd276e0140cae1a5fbf7f6480e4.receipt.json",
- "capture_receipt_sha256": "07f0edf7351d8ff76c7936615f01c17a7bdccc1336b25fb4a40ee9c5f8c43b7f"
+ "capture_receipt_sha256": "07f0edf7351d8ff76c7936615f01c17a7bdccc1336b25fb4a40ee9c5f8c43b7f",
+ "supersedes": {
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "1a4edf1aa6237f5892175f36be2e37d3aca463596b45156a7d411d7c8776d197",
+  "previous_receipt_path": "receipts/768271d05442425f9b6b870d6037af5e7ec17cd276e0140cae1a5fbf7f6480e4.json"
+ },
+ "corrected_at": "2026-11-04T08:45:50-1000",
+ "view_pin_verified": true
 }

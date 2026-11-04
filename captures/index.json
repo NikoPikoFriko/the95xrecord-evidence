@@ -49,7 +49,7 @@
   "0e54f37f8eef46ce0e18b1a21efda99c4a08ceede6faeec22cf0ba8d6659ba83": {
    "captured_at": "2026-11-04T08:11:51.786913-10:00",
    "case": "1RC191003776",
-   "docket": "28",
+   "docket": "427",
    "kind": "regular",
    "object": "sha256/0e54f37f8eef46ce0e18b1a21efda99c4a08ceede6faeec22cf0ba8d6659ba83.pdf",
    "receipt": "receipts/0e54f37f8eef46ce0e18b1a21efda99c4a08ceede6faeec22cf0ba8d6659ba83.json",
@@ -58,7 +58,7 @@
   "0eea41ccb35238b96e2ac734c75cdf65e775523410ae086f44bb6354a058eeba": {
    "captured_at": "2026-11-03T23:55:04.341283-10:00",
    "case": "1RC191003776",
-   "docket": "12",
+   "docket": "11",
    "kind": "regular",
    "object": "sha256/0eea41ccb35238b96e2ac734c75cdf65e775523410ae086f44bb6354a058eeba.pdf",
    "receipt": "receipts/0eea41ccb35238b96e2ac734c75cdf65e775523410ae086f44bb6354a058eeba.json",
@@ -76,7 +76,7 @@
   "1216f6117eac5e2483716baa25f4575151d40b6771ec1253fe99e96262adf573": {
    "captured_at": "2026-11-04T08:11:36.516978-10:00",
    "case": "1RC191003776",
-   "docket": "17",
+   "docket": "423",
    "kind": "regular",
    "object": "sha256/1216f6117eac5e2483716baa25f4575151d40b6771ec1253fe99e96262adf573.pdf",
    "receipt": "receipts/1216f6117eac5e2483716baa25f4575151d40b6771ec1253fe99e96262adf573.json",
@@ -94,7 +94,7 @@
   "20ca4fda20dace9e5e3776267f0186242b617a0dceebdcce906dbe81360e85c2": {
    "captured_at": "2026-11-03T23:54:44.944908-10:00",
    "case": "1RC191003776",
-   "docket": "9",
+   "docket": "8",
    "kind": "regular",
    "object": "sha256/20ca4fda20dace9e5e3776267f0186242b617a0dceebdcce906dbe81360e85c2.pdf",
    "receipt": "receipts/20ca4fda20dace9e5e3776267f0186242b617a0dceebdcce906dbe81360e85c2.json",
@@ -115,7 +115,7 @@
   "2696cd9e22cd80ac5f5eb35c8c442bb6a8d0631ec56bdca9485725ea30a40ac5": {
    "captured_at": "2026-11-04T08:12:05.094608-10:00",
    "case": "1RC191003776",
-   "docket": "29",
+   "docket": "429",
    "kind": "regular",
    "object": "sha256/2696cd9e22cd80ac5f5eb35c8c442bb6a8d0631ec56bdca9485725ea30a40ac5.pdf",
    "receipt": "receipts/2696cd9e22cd80ac5f5eb35c8c442bb6a8d0631ec56bdca9485725ea30a40ac5.json",
@@ -207,7 +207,7 @@
   },
   "46429ea256f90049b9083010fa08e7af116a9e9b4b6a8dd4bdf27ac1b0121e21": {
    "captured_at": "2026-11-04T08:37:22.344125-10:00",
-   "case": "1RC191003776",
+   "case": "CAAP-26-0000625",
    "docket": "19",
    "kind": "regular",
    "object": "sha256/46429ea256f90049b9083010fa08e7af116a9e9b4b6a8dd4bdf27ac1b0121e21.pdf",
@@ -234,7 +234,7 @@
   },
   "496bfdebc04a9e699d152ec7f7a46736e341a291d7734385dc829f7120b3659d": {
    "captured_at": "2026-11-04T08:38:02.001390-10:00",
-   "case": "1RC191003776",
+   "case": "CAAP-26-0000625",
    "docket": "17",
    "kind": "regular",
    "object": "sha256/496bfdebc04a9e699d152ec7f7a46736e341a291d7734385dc829f7120b3659d.pdf",
@@ -289,7 +289,7 @@
   "5ed5e1968bcfcf28aca91881e5957d9a0e20626858ebaee116f24ee33c88bef6": {
    "captured_at": "2026-11-03T13:50:58.1512408-10:00",
    "case": "1RC191003776",
-   "docket": "496",
+   "docket": "488",
    "kind": "regular",
    "object": "sha256/5ed5e1968bcfcf28aca91881e5957d9a0e20626858ebaee116f24ee33c88bef6.pdf",
    "receipt": "receipts/5ed5e1968bcfcf28aca91881e5957d9a0e20626858ebaee116f24ee33c88bef6.json",
@@ -361,7 +361,7 @@
   "6f7fc7455ddddaa09d4154c0054bc5a4bd0d37bc4d3b414ac865ce17e65d256b": {
    "captured_at": "2026-11-04T08:26:44.757079-10:00",
    "case": "1RC191003776",
-   "docket": "461",
+   "docket": "478",
    "kind": "regular",
    "object": "sha256/6f7fc7455ddddaa09d4154c0054bc5a4bd0d37bc4d3b414ac865ce17e65d256b.pdf",
    "receipt": "receipts/6f7fc7455ddddaa09d4154c0054bc5a4bd0d37bc4d3b414ac865ce17e65d256b.json",
@@ -388,7 +388,7 @@
   "768271d05442425f9b6b870d6037af5e7ec17cd276e0140cae1a5fbf7f6480e4": {
    "captured_at": "2026-11-04T08:10:18.876937-10:00",
    "case": "1RC191003776",
-   "docket": "8",
+   "docket": "411",
    "kind": "regular",
    "object": "sha256/768271d05442425f9b6b870d6037af5e7ec17cd276e0140cae1a5fbf7f6480e4.pdf",
    "receipt": "receipts/768271d05442425f9b6b870d6037af5e7ec17cd276e0140cae1a5fbf7f6480e4.json",
@@ -658,7 +658,7 @@
   "b8b0bd881b91cbe414d26dd25684aeb4c644c65cc83eede475c173312f9ed2c3": {
    "captured_at": "2026-11-04T08:10:46.486933-10:00",
    "case": "1RC191003776",
-   "docket": "16",
+   "docket": "413",
    "kind": "regular",
    "object": "sha256/b8b0bd881b91cbe414d26dd25684aeb4c644c65cc83eede475c173312f9ed2c3.pdf",
    "receipt": "receipts/b8b0bd881b91cbe414d26dd25684aeb4c644c65cc83eede475c173312f9ed2c3.json",
@@ -810,7 +810,7 @@
   },
   "efa1ddef4d93fae99c43fd324504cc7c433ff4cbc89d60d39ec687380f1114b1": {
    "captured_at": "2026-11-04T08:37:56.621167-10:00",
-   "case": "1RC191003776",
+   "case": "CAAP-26-0000625",
    "docket": "15",
    "kind": "regular",
    "object": "sha256/efa1ddef4d93fae99c43fd324504cc7c433ff4cbc89d60d39ec687380f1114b1.pdf",
@@ -846,7 +846,7 @@
   }
  },
  "ledger": "captures/ledger.jsonl",
- "ledger_sha256": "b79ce0b0f177bef162543bc3a510cf5aba6ad87807f25415838481578f94e3fc",
+ "ledger_sha256": "ec80dcba3475621217b81ad234cc8e6a95e2d7a5e2188b61f969bf263612ea94",
  "note": "append-only; a re-capture of different bytes creates a new entry that names the superseded one. See README.",
  "schema": "evidence-capture-ledger-index/1"
 }
