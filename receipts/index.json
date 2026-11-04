@@ -5,17 +5,17 @@
  "receipts": {
   "03b554f572a0afafcbb7bc606be342c8c36699cb3063aaa2fe48d9ac074ad09f": {
    "batch": "4",
-   "captured_at": null,
+   "captured_at": "2026-11-03T22:34:56.378357-10:00",
    "code": "ROS",
    "docket": "7",
    "docket_recorded_verbatim": "7",
    "filed": "16-JUL-2019",
    "object_path": "sha256/03b554f572a0afafcbb7bc606be342c8c36699cb3063aaa2fe48d9ac074ad09f.pdf",
    "receipt": "receipts/03b554f572a0afafcbb7bc606be342c8c36699cb3063aaa2fe48d9ac074ad09f.json",
-   "receipt_sha256": "ae0380238d8ecbcac3090a06a7710aba0390ec71f18f5dcbaddb43ef107c4ff4",
+   "receipt_sha256": "ed222efcf80992527ff45bf6ab607f0152aeb7971d1ff09c8f5e976d647a4da6",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=8015069673956615310",
-   "tier": null
+   "tier": ""
   },
   "04950d932731a1f9c467aefd0dcd5eb48379626c6cb64b6a8f625221c5694e20": {
    "batch": "0",
@@ -355,17 +355,17 @@
   },
   "8caeac19dd2101a9ec7d6f8371c46a93a58a4233a9df956c814ec855107f3d14": {
    "batch": "4",
-   "captured_at": null,
+   "captured_at": "2026-11-03T22:32:02.851355-10:00",
    "code": "CS",
    "docket": "5",
    "docket_recorded_verbatim": "5",
    "filed": "08-JUL-2019",
    "object_path": "sha256/8caeac19dd2101a9ec7d6f8371c46a93a58a4233a9df956c814ec855107f3d14.pdf",
    "receipt": "receipts/8caeac19dd2101a9ec7d6f8371c46a93a58a4233a9df956c814ec855107f3d14.json",
-   "receipt_sha256": "985588b87630d51e0d7e1509c007bb271cb674f2cf023d9fcd757d6dbb87aee0",
+   "receipt_sha256": "c7db6b8ceb3fd7c36f8582785d8b5336d03774975a2106ae407203aae2b670cd",
    "servlet": "regular",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-3115844995683487479",
-   "tier": null
+   "tier": ""
   },
   "9244cf8daa323bd18ae84de9824463938e3425180807d51806ba7aad280f4de0": {
    "batch": "1",
