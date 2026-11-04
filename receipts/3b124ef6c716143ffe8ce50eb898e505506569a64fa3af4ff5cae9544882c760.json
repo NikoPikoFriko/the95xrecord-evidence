@@ -50,5 +50,13 @@
   "case": "1RC191003776",
   "resolved_manifest_sha256": "c3072e7bf0b790a298e559a07eda75f8ce0922debe1ab344e889c133ff527c08",
   "publish_note": "taken from ledger_resolved.jsonl; corrections not re-implemented"
+ },
+ "publication_view_sha256": "f03fbaf9d0c14e5466db864cbaaf7d10a1dc5f06e0b6748f34fd1f232f739c13",
+ "view_source": "publication",
+ "source": "T63 series 3 from resolved view (dkt 4, 6, 12)",
+ "supersedes": {
+  "reason": "provenance completed under the publication_view authority (both view hashes recorded)",
+  "previous_receipt_sha256": "350e4b3e390d9094643d876c5bf51b7370b3601144626e099c146b3e687e7247",
+  "previous_receipt_path": "receipts/3b124ef6c716143ffe8ce50eb898e505506569a64fa3af4ff5cae9544882c760.json"
  }
 }
