@@ -1,0 +1,37 @@
+{
+ "schema": "evidence-receipt/1",
+ "sha256": "dade2925abaf8b352ee9561555b3223d02339372c8b3246ded52b258737f60f6",
+ "bytes": 2087765,
+ "object_path": "sha256/dade2925abaf8b352ee9561555b3223d02339372c8b3246ded52b258737f60f6.pdf",
+ "case_recorded": "1RC191003776",
+ "docket_recorded": "494",
+ "docket_code_recorded": "PROP",
+ "filed_recorded": "23-OCT-2026",
+ "pages_recorded": 20,
+ "pages_source": "ledger",
+ "title_recorded": "[PROPOSED] ORDER DENYING ... MOTION TO EXTEND TIME TO FILE APPEAL [DKT 442]; EXHIBITS A AND B (certified copy)",
+ "title_source": "jims-row",
+ "batch": "immediate publish after capture",
+ "published_at": "2026-11-04T06:49:09-10:00",
+ "publication_mode": "single-object (publish_one.py)",
+ "resolved_manifest_sha256": "38a5059de0c20e99615078a04a8584a42bbd73303ecbd9dc88958f132d927ca9",
+ "publication_view_sha256": "bedd1507fbba007c9c9a0373ea7168f7e3fbd7bd740e9c122b717ad6c152165d",
+ "source": "JIMS",
+ "view_source": "capturer",
+ "rendition": "pending",
+ "rendition_of": [
+  "7e6ca77920bfae393fe666cf1dda023ef3e10ba835adfbb92859ea5341ab52d0"
+ ],
+ "rendition_group": "1RC191003776:494:PROP",
+ "rendition_count": 2,
+ "rendition_source": "publication_view.jsonl (copied verbatim)",
+ "court": {
+  "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=839617491208344317",
+  "url_host": "jimspss1.courts.state.hi.us",
+  "servlet": "certified",
+  "ads_verbatim": "[ZoneTransfer]\r\nZoneId=3\r\nReferrerUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface\r\nHostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=839617491208344317\u0000",
+  "captured_at": null
+ },
+ "capture_receipt_path": "dade2925abaf8b352ee9561555b3223d02339372c8b3246ded52b258737f60f6.receipt.json",
+ "capture_receipt_sha256": "cee851027ef3798397a52db78c767f2b819f155aca4758a720af4948eac92538"
+}
