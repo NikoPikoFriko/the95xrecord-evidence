@@ -68,6 +68,30 @@ grep 8719ada165f96c1eff2040c0312bd6c7adf19871f3702fdf865b5ace5d04b94e CATALOGUE_
 
 Then verify that row's `github_path` as in §1.
 
+## 6. Verify a court receipt (origin, not just integrity)
+
+```bash
+H=04950d932731a1f9c467aefd0dcd5eb48379626c6cb64b6a8f625221c5694e20
+B=https://raw.githubusercontent.com/NikoPikoFriko/the95xrecord-evidence/main
+curl -sL "$B/receipts/$H.json" -o r.json
+python -c "import json;r=json.load(open('r.json'));print(r['sha256']);print(r['court']['servlet_url']);print(r['court']['captured_at'])"
+```
+
+Then open `court.servlet_url` **inside a signed-in JIMS session**, retrieve the same docket row, hash the
+download, and compare with `r.json.sha256` and with the filename under `sha256/`.
+
+**The limit, honestly:** the servlet URL is session-bound. Unsigned-in, the certified servlet returns HTTP 500 and
+the regular one an 88-byte shell — so the URL may not open for you today, and that is expected, not tampering.
+The receipt proves *where and when* the bytes were retrieved; the filename proves *what they are*. Never use a
+receipt as evidence that a URL is anonymously fetchable, and never use a URL as evidence of byte identity.
+
+Verify all receipts at once:
+
+```bash
+git clone https://github.com/NikoPikoFriko/the95xrecord-evidence && cd the95xrecord-evidence
+sha256sum -c RECEIPTS_MANIFEST.sha256
+```
+
 ---
 
 ## What a pass and a fail mean

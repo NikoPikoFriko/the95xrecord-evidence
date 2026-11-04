@@ -1,0 +1,42 @@
+{
+ "schema": "evidence-receipt/1",
+ "receipt_id": "5d2b1f12-344f-546c-ae5f-41d1fd17fe22",
+ "batch": "0",
+ "batch_label": "pre-crawl telemetry capture (23 court servlet receipts)",
+ "sha256": "66751c57d1a44719b0e33f02ee6c73086343189afa79953e086bd21723fca71e",
+ "bytes": 152372,
+ "object_path": "sha256/66751c57d1a44719b0e33f02ee6c73086343189afa79953e086bd21723fca71e.pdf",
+ "court": {
+  "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=-6139293282449008766",
+  "url_host": "jimspss1.courts.state.hi.us",
+  "servlet": "certified",
+  "source_host": "jimspss1.courts.state.hi.us",
+  "captured_at": "2026-11-03T18:58:34.1031035-10:00",
+  "jims_session": null,
+  "ads_verbatim": "[ZoneTransfer] | ZoneId=3 | ReferrerUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface | HostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=-6139293282449008766\u0000"
+ },
+ "docket_recorded": "17",
+ "docket_code_recorded": null,
+ "title_recorded": null,
+ "filed_recorded": null,
+ "pages_recorded": null,
+ "case_recorded": "CAAP-26-0000625",
+ "original_filename": "9245354012.pdf",
+ "raw_capture": {
+  "recorded_at": "2026-11-03T18:59:47.1804814-10:00",
+  "case": "CAAP-26-0000625",
+  "docket": "17",
+  "file_name": "9245354012.pdf",
+  "file_path": "C:\\Users\\NIKO\\Downloads\\9245354012.pdf",
+  "bytes": 152372,
+  "sha256": "66751c57d1a44719b0e33f02ee6c73086343189afa79953e086bd21723fca71e",
+  "md5": "cdc8e919e106c4f7210c764b4bcb5944",
+  "created": "2026-11-03T18:58:33.7945370-10:00",
+  "modified": "2026-11-03T18:58:34.1031035-10:00",
+  "zone_id": "ZoneId=3; ReferrerUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface; HostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=-6139293282449008766\u0000",
+  "zone_raw": "[ZoneTransfer] | ZoneId=3 | ReferrerUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface | HostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=-6139293282449008766\u0000",
+  "chrome_row": "no matching downloads row (profile other than Default, or history cleared)",
+  "usn_row": "no usn match",
+  "source_host": "jimspss1.courts.state.hi.us"
+ }
+}

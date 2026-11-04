@@ -22,6 +22,10 @@ records and derived indexes of them, nothing else.
 | `MANIFEST.csv` | the same set in `MANIFEST` form (case, docket, grade, file, bytes, sha256) |
 | `MANIFEST.sha256` | `sha256sum`-format checksums with paths relative to this repository root — one command verifies everything |
 | `VERIFY.md` | how to verify one file, or all of them, in one command each |
+| `receipts/<sha256>.json` | **court receipts** — for each captured object: the JIMS servlet URL it was retrieved from, the raw NTFS `Zone.Identifier` string verbatim, the timestamp, the docket row as the court rendered it, and the sha256/bytes of the file that landed |
+| `receipts/index.json` | machine index: `sha256 → {docket, code, filed, tier, servlet_url, captured_at}` |
+| `RECEIPTS.md` | the 5-step verification recipe, and the honest limit of what a receipt proves |
+| `RECEIPTS_MANIFEST.sha256` | `sha256sum -c` file over `receipts/` |
 
 **Totals:** 80 objects · 50,453,826 bytes · 80 unique hashes (no two documents share a hash).
 Extension mix: 75 `.pdf`, 2 `.txt`, 2 `.md`, 1 `.csv`.
@@ -51,6 +55,24 @@ sha256sum -c MANIFEST.sha256      # 80 lines, each ending in OK
 See [`VERIFY.md`](VERIFY.md) for the long form (per-file loop, Windows/PowerShell equivalent, and how to
 check a single docket from `CATALOGUE_80.csv`).
 
+## Court receipts — where the bytes came from
+
+An object with a receipt has been retrieved from the court's own JIMS servlet, and the URL, the raw origin
+string and the timestamp are published beside it under `receipts/`. Verify origin in five steps:
+
+1. sign in to JIMS (`jimspss1.courts.state.hi.us`);
+2. My Case View → the case → Dockets/Documents → the docket row named in `receipts/index.json`;
+3. retrieve the document with the same button kind the receipt records (`court.servlet`: `regular` or `certified`);
+4. `sha256sum` the downloaded file;
+5. compare with the filename and with `sha256` in the receipt — equal means the same bytes.
+
+**The honest limit, stated plainly: the servlet URLs are session-bound.** Without a signed-in JIMS session the
+certified servlet answers HTTP 500 and the regular servlet returns an 88-byte HTML shell (measured). So a receipt
+is evidence of **where the bytes were retrieved from at that timestamp, in that session** — it is not a claim that
+the URL works anonymously today. The bytes themselves are proven separately and unconditionally: the filename is
+their SHA-256. Receipts are append-only; a correction is a new receipt that names the one it supersedes.
+See [`RECEIPTS.md`](RECEIPTS.md).
+
 ## What this repo is not
 
 - **Not the site.** The site is `https://the95xrecord.vercel.app`; this repository stores bytes only.
@@ -69,7 +91,7 @@ check a single docket from `CATALOGUE_80.csv`).
 | station (case room / export) | ✅ source of truth for this publication |
 | Box | ✅ via the station's Box helper (see `tools/verify_mirrors.py`) |
 | Google Drive (`niko@mojehawaje.pl`) | ✅ via rclone |
-| GitHub (this repo) | ✅ public, content-addressed |
+| GitHub (this repo) | ✅ public, content-addressed, with court receipts where captured |
 | Cloudflare R2 | ⏳ same keys (`/sha256/<hash>.<ext>`) — awaiting a Cloudflare API token; the catalogue is already R2-ready, so the copy is mechanical |
 
 ## Provenance
