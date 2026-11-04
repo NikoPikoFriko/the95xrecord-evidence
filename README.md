@@ -117,7 +117,7 @@ served bytes** — see `PUBLIC_BYTES_REPORT.md` on the station for the per-file 
 
 ## Legacy export (outside the capture ledger)
 
-34 files in `sha256/` were published by the bulk export commit `9f12298` before the capture procedure
+29 files in `sha256/` were published by the bulk export commit `9f12298` before the capture procedure
 existed: they have **no receipt, no ADS and no capture-ledger row**, and their bytes are public and
 mirror-verified but **are not evidence of capture**. They are declared (never receipted) in
 [`LEGACY_EXPORT.json`](LEGACY_EXPORT.json), explained in [`LEGACY_EXPORT.md`](LEGACY_EXPORT.md), and
