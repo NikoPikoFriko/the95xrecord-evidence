@@ -1,5 +1,5 @@
 {
- "count": 29,
+ "count": 38,
  "entries": {
   "04950d932731a1f9c467aefd0dcd5eb48379626c6cb64b6a8f625221c5694e20": {
    "captured_at": "2026-11-03T18:54:01.1299988-10:00",
@@ -8,6 +8,24 @@
    "kind": "regular",
    "object": "sha256/04950d932731a1f9c467aefd0dcd5eb48379626c6cb64b6a8f625221c5694e20.pdf",
    "receipt": "receipts/04950d932731a1f9c467aefd0dcd5eb48379626c6cb64b6a8f625221c5694e20.json",
+   "status": "captured"
+  },
+  "04e46b37e4145a22a40e75a0f1180b7e5a44adc95ce03e2b5da4f2753574ceec": {
+   "captured_at": "2026-11-03T13:20:52-10:00",
+   "case": "1RC191003776",
+   "docket": 493,
+   "kind": "regular",
+   "object": "sha256/04e46b37e4145a22a40e75a0f1180b7e5a44adc95ce03e2b5da4f2753574ceec.pdf",
+   "receipt": "receipts/04e46b37e4145a22a40e75a0f1180b7e5a44adc95ce03e2b5da4f2753574ceec.json",
+   "status": "captured"
+  },
+  "080b7bfde42b1f4b87ef9b9bc40d51def599592359bc7ef3347400bad9fb59c2": {
+   "captured_at": "2026-11-03T20:55:45-10:00",
+   "case": "CAAP-26-0000625",
+   "docket": 10,
+   "kind": "regular",
+   "object": "sha256/080b7bfde42b1f4b87ef9b9bc40d51def599592359bc7ef3347400bad9fb59c2.pdf",
+   "receipt": "receipts/080b7bfde42b1f4b87ef9b9bc40d51def599592359bc7ef3347400bad9fb59c2.json",
    "status": "captured"
   },
   "267462accd55e8f6788ab93cc1439f35e529592ce437f543ec8a87c977581a13": {
@@ -88,6 +106,15 @@
    "receipt": "receipts/61cd1758aa85ddeeaf6ab9df70f554b5e3880ae52a0e18f289d7bb053243fdb1.json",
    "status": "captured"
   },
+  "61ecfedfcb2e2dd104f58a493558597706ad797852e3256a65a648fbe7220fbe": {
+   "captured_at": "2026-11-03T13:21:50-10:00",
+   "case": "1RC191003776",
+   "docket": 491,
+   "kind": "regular",
+   "object": "sha256/61ecfedfcb2e2dd104f58a493558597706ad797852e3256a65a648fbe7220fbe.pdf",
+   "receipt": "receipts/61ecfedfcb2e2dd104f58a493558597706ad797852e3256a65a648fbe7220fbe.json",
+   "status": "captured"
+  },
   "65100c89cd2be4e58decd8ecba9cd581d24b7a8db31a25b7f269d4072cd1576e": {
    "captured_at": "2026-11-03T19:49:20.3510427-10:00",
    "case": "1RC191003776",
@@ -115,6 +142,15 @@
    "receipt": "receipts/67b143179d9ca556c53175072a506e7739ac7c273b8d27e8b76bb4ea81f3ab19.json",
    "status": "captured"
   },
+  "6f4899057046964ff5c77e0e5a1c27d150f6e32c067c19ebcf51856b2376a5d6": {
+   "captured_at": "2026-11-03T21:06:17-10:00",
+   "case": "1RC191003776",
+   "docket": 9,
+   "kind": "regular",
+   "object": "sha256/6f4899057046964ff5c77e0e5a1c27d150f6e32c067c19ebcf51856b2376a5d6.pdf",
+   "receipt": "receipts/6f4899057046964ff5c77e0e5a1c27d150f6e32c067c19ebcf51856b2376a5d6.json",
+   "status": "captured"
+  },
   "72bb68d9ebd2c570164a67d009f46268104c1b64bc450c3a1e7b7cd8485c4f0b": {
    "captured_at": "2026-11-03T19:52:03.2024979-10:00",
    "case": "1RC191003776",
@@ -131,6 +167,15 @@
    "kind": "regular",
    "object": "sha256/751646b64c6aeb2414a90c4510be3a6795f3f1133a84bfa472f39ef8b74158d5.pdf",
    "receipt": "receipts/751646b64c6aeb2414a90c4510be3a6795f3f1133a84bfa472f39ef8b74158d5.json",
+   "status": "captured"
+  },
+  "7897051d8f6a7897675c363b1b35e30c59456abde7db7f47052c4a3e180f4fa0": {
+   "captured_at": "2026-11-03T20:57:02-10:00",
+   "case": "CAAP-26-0000625",
+   "docket": 13,
+   "kind": "regular",
+   "object": "sha256/7897051d8f6a7897675c363b1b35e30c59456abde7db7f47052c4a3e180f4fa0.pdf",
+   "receipt": "receipts/7897051d8f6a7897675c363b1b35e30c59456abde7db7f47052c4a3e180f4fa0.json",
    "status": "captured"
   },
   "7c7978910396cbbd03f5e481b326ba7499ecf8d1b5a946006c05b80aa1b46472": {
@@ -158,6 +203,15 @@
    "kind": "regular",
    "object": "sha256/7f5d560310861beab347cbe827934863d3788b9e31039b3eae41e987c0b19710.pdf",
    "receipt": "receipts/7f5d560310861beab347cbe827934863d3788b9e31039b3eae41e987c0b19710.json",
+   "status": "captured"
+  },
+  "86ae8dd1c6b7093f3e23ca076e6a82668c7585bb043661f5733b00ce52d5d022": {
+   "captured_at": "2026-11-03T13:20:05-10:00",
+   "case": "1RC191003776",
+   "docket": 495,
+   "kind": "regular",
+   "object": "sha256/86ae8dd1c6b7093f3e23ca076e6a82668c7585bb043661f5733b00ce52d5d022.pdf",
+   "receipt": "receipts/86ae8dd1c6b7093f3e23ca076e6a82668c7585bb043661f5733b00ce52d5d022.json",
    "status": "captured"
   },
   "87f5b65e406ef146c7ea5f56e03b05c9b735a293af72af4a5286f31a0a1f1c37": {
@@ -194,6 +248,15 @@
    "kind": "regular",
    "object": "sha256/937ceb5dfc2465cb97f2c576c1139fb04ca987f32f797fbc679cc14ad49b80ed.pdf",
    "receipt": "receipts/937ceb5dfc2465cb97f2c576c1139fb04ca987f32f797fbc679cc14ad49b80ed.json",
+   "status": "captured"
+  },
+  "a9cad9b36d8b3a7bbe406358fa63f41d952a92636f694f3d58f834ef1da0bd54": {
+   "captured_at": "2026-11-03T13:22:48-10:00",
+   "case": "1RC191003776",
+   "docket": 489,
+   "kind": "regular",
+   "object": "sha256/a9cad9b36d8b3a7bbe406358fa63f41d952a92636f694f3d58f834ef1da0bd54.pdf",
+   "receipt": "receipts/a9cad9b36d8b3a7bbe406358fa63f41d952a92636f694f3d58f834ef1da0bd54.json",
    "status": "captured"
   },
   "ad3ebc5c1054421a680b2dc4b03f752d09a98b2fe814d7aee423f517a820ba76": {
@@ -241,6 +304,15 @@
    "receipt": "receipts/c38308661b3eb31e0130e4a16c1c032b1c52a19e239698440afd8d6461e1fb07.json",
    "status": "captured"
   },
+  "cb14cad03b35951aae8d034576607073130ec6dc11b1eaceca811f40ba17db77": {
+   "captured_at": "2026-11-03T20:56:15-10:00",
+   "case": "CAAP-26-0000625",
+   "docket": 11,
+   "kind": "regular",
+   "object": "sha256/cb14cad03b35951aae8d034576607073130ec6dc11b1eaceca811f40ba17db77.pdf",
+   "receipt": "receipts/cb14cad03b35951aae8d034576607073130ec6dc11b1eaceca811f40ba17db77.json",
+   "status": "captured"
+  },
   "d89cf0acf0bd7e8c60c2548492ef75f6ddcd34f9df35731208914d57c3f3aba6": {
    "captured_at": "2026-11-03T18:58:14.5113653-10:00",
    "case": "CAAP-26-0000625",
@@ -248,6 +320,15 @@
    "kind": "certified",
    "object": "sha256/d89cf0acf0bd7e8c60c2548492ef75f6ddcd34f9df35731208914d57c3f3aba6.pdf",
    "receipt": "receipts/d89cf0acf0bd7e8c60c2548492ef75f6ddcd34f9df35731208914d57c3f3aba6.json",
+   "status": "captured"
+  },
+  "ef43cc58f2efea735865ba29ea8441becd7fb508589b863575577a460d7de491": {
+   "captured_at": "2026-11-03T20:57:32-10:00",
+   "case": "CAAP-26-0000625",
+   "docket": 20,
+   "kind": "regular",
+   "object": "sha256/ef43cc58f2efea735865ba29ea8441becd7fb508589b863575577a460d7de491.pdf",
+   "receipt": "receipts/ef43cc58f2efea735865ba29ea8441becd7fb508589b863575577a460d7de491.json",
    "status": "captured"
   },
   "f296f03ebaeb9d4cb13c78d022b2647b5f2e6ebbbe9627557b95353d85e9fa38": {
@@ -270,7 +351,7 @@
   }
  },
  "ledger": "captures/ledger.jsonl",
- "ledger_sha256": "8845eaffde568e8bde2dbf139bbe55f4f7204d0633a3a4dcd6cf98f440276799",
+ "ledger_sha256": "17471b33757ba3d9fbc4d7584b0da5f1f6c25993e39d304fbdb29e4dbd511e72",
  "note": "append-only; a re-capture of different bytes creates a new entry that names the superseded one. See README.",
  "schema": "evidence-capture-ledger-index/1"
 }

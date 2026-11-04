@@ -1,5 +1,5 @@
 {
- "count": 2,
+ "count": 44,
  "note": "rows that did NOT become receipts: failed captures, no-document rows, or rows whose court URL could not be established. Absence is recorded, never filled with an invented receipt.",
  "rows": {
   "a2e02a84fc869506ebfeab0e940e3f593d7c7eb362260382961834de2a0965ad": {
@@ -13,6 +13,258 @@
    "docket": 398,
    "reason": "court URL is not a DocumentRetrieval/CertifiedDocumentRetrieval servlet (not court-origin) - refused",
    "status": "captured"
+  },
+  "no-sha/106/row": {
+   "code": "*MINH",
+   "docket": 106,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/13/row": {
+   "code": "*MINH",
+   "docket": 13,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/138/row": {
+   "code": "*MINH",
+   "docket": 138,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/14/row": {
+   "code": "*MINH",
+   "docket": 14,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/15/row": {
+   "code": null,
+   "docket": 15,
+   "reason": "already in the capture ledger - not fetched again (no-refetch rule)",
+   "status": "already-captured"
+  },
+  "no-sha/16/row": {
+   "code": null,
+   "docket": 16,
+   "reason": "already in the capture ledger - not fetched again (no-refetch rule)",
+   "status": "already-captured"
+  },
+  "no-sha/17/row": {
+   "code": null,
+   "docket": 17,
+   "reason": "already in the capture ledger - not fetched again (no-refetch rule)",
+   "status": "already-captured"
+  },
+  "no-sha/170/row": {
+   "code": "*MINH",
+   "docket": 170,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/171/row": {
+   "code": "*MINH",
+   "docket": 171,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/18/row": {
+   "code": null,
+   "docket": 18,
+   "reason": "already in the capture ledger - not fetched again (no-refetch rule)",
+   "status": "already-captured"
+  },
+  "no-sha/19/row": {
+   "code": null,
+   "docket": 19,
+   "reason": "already in the capture ledger - not fetched again (no-refetch rule)",
+   "status": "already-captured"
+  },
+  "no-sha/199/row": {
+   "code": "*MINH",
+   "docket": 199,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/206/row": {
+   "code": "*MINH",
+   "docket": 206,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/218/row": {
+   "code": "*MINH",
+   "docket": 218,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/222/row": {
+   "code": "*MINH",
+   "docket": 222,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/228/row": {
+   "code": "*MINH",
+   "docket": 228,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/274/row": {
+   "code": "*MINH",
+   "docket": 274,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/293/row": {
+   "code": "*MINH",
+   "docket": 293,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/294/row": {
+   "code": "*MINH",
+   "docket": 294,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/315/row": {
+   "code": "*MINH",
+   "docket": 315,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/316/row": {
+   "code": "*MINH",
+   "docket": 316,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/328/row": {
+   "code": "*MINH",
+   "docket": 328,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/348/row": {
+   "code": "*MINH",
+   "docket": 348,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/349/row": {
+   "code": "*MINH",
+   "docket": 349,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/350/row": {
+   "code": "*MINH",
+   "docket": 350,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/351/row": {
+   "code": "*MINH",
+   "docket": 351,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/363/row": {
+   "code": "*MINH",
+   "docket": 363,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/364/row": {
+   "code": "*MINH",
+   "docket": 364,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/369/row": {
+   "code": "*MINH",
+   "docket": 369,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/372/row": {
+   "code": "*MINH",
+   "docket": 372,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/385/row": {
+   "code": "*MINH",
+   "docket": 385,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/409/row": {
+   "code": "*MINH",
+   "docket": 409,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/422/row": {
+   "code": "*MINH",
+   "docket": 422,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/480/row": {
+   "code": "*MINH",
+   "docket": 480,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/481/row": {
+   "code": "*MINH",
+   "docket": 481,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/486/row": {
+   "code": "*MINH",
+   "docket": 486,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/487/row": {
+   "code": "*MINH",
+   "docket": 487,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/50/row": {
+   "code": "*MINH",
+   "docket": 50,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/53/row": {
+   "code": "*MINH",
+   "docket": 53,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
+  },
+  "no-sha/7/row": {
+   "code": null,
+   "docket": 7,
+   "reason": "already in the capture ledger - not fetched again (no-refetch rule)",
+   "status": "already-captured"
+  },
+  "no-sha/9/row": {
+   "code": null,
+   "docket": 9,
+   "reason": "already in the capture ledger - not fetched again (no-refetch rule)",
+   "status": "already-captured"
+  },
+  "no-sha/94/row": {
+   "code": "*MINH",
+   "docket": 94,
+   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
+   "status": "no-document"
   }
  },
  "schema": "evidence-receipts-ledger/1"
