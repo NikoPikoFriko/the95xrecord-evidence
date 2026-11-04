@@ -2,7 +2,7 @@
  "schema": "legacy-export/v1",
  "source_commit": "9f12298",
  "generated_at": "2026-11-04T08:35:00-10:00",
- "note": "bytes published in a bulk export before the capture ledger existed; NOT capture provenance",
+ "note": "bytes published in a bulk export before the capture ledger existed; NOT capture provenance Updated 2026-11-04: objects that later acquired capture receipts were removed from this list (they are published normally).",
  "rule": "an object listed here is exempt from the receipt/ledger/view requirement of check #16 ONLY; it is never treated as a capture, and a listed object that later gains a receipt is a consistency error (the exception must be removed, not silently kept)",
  "objects": [
   {
@@ -118,14 +118,6 @@
    "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
   },
   {
-   "sha256": "6e956ef1189c1092e1ba5d002cf7aa777be88fd3c959ade0a0d10835202cdfed",
-   "docket": "492",
-   "document_name": "2026-10-21__1RC191003776__DKT__DKT0492-DOC__order-denying-extend-time-dkt442-stricken__SRC__h6e956ef1189c.pdf",
-   "bytes": 1068894,
-   "added_by_commit": "9f12298",
-   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
-  },
-  {
    "sha256": "7ccd357f8143a6364299cba1df8b244bd9b94736db4c1b94101f0cab125558e7",
    "docket": "493",
    "document_name": "2026-10-21__1RC191003776__DKT__DKT0493-NEF__nef-for-order-dkt492-stricken__CERT__h7ccd357f8143.pdf",
@@ -190,14 +182,6 @@
    "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
   },
   {
-   "sha256": "a6c06756ea15df09f07b4eed5c9a608af98366c7a452e1ee81951f60734f193f",
-   "docket": "451",
-   "document_name": "2026-08-31__1RC191003776__DKT__DKT0451-MEO__counterclaim-defendant-association-of-apartment-owners-of-ma__SRC__ha6c06756ea15.pdf",
-   "bytes": 625537,
-   "added_by_commit": "9f12298",
-   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
-  },
-  {
    "sha256": "a9c267f03e7efd9b044c5117b4938b3ea094316adfb8d3d3e3959aa50d49c70e",
    "docket": "478",
    "document_name": "2026-09-24__1RC191003776__DKT__DKT0478-SCON__other__SRC__ha9c267f03e7e.pdf",
@@ -226,14 +210,6 @@
    "docket": "479",
    "document_name": "2026-09-24__1RC191003776__DKT__DKT0479-NEF__nef-for-dkt478__CERT__hb7e0258c5648.pdf",
    "bytes": 25435,
-   "added_by_commit": "9f12298",
-   "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
-  },
-  {
-   "sha256": "b995effe382f146a7a001f719634921a8023cb38fd9dc313212644ebbe227484",
-   "docket": "441",
-   "document_name": "2026-08-24__1RC191003776__DKT__DKT0441-MOT__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-s__SRC__hb995effe382f.pdf",
-   "bytes": 133631,
    "added_by_commit": "9f12298",
    "reason": "legacy bulk export 9f12298: no Zone.Identifier ADS ever recorded (staging copies carry none), no receipt in git history (git log --all -- receipts/<sha>.json is empty), absent from captures/ledger.jsonl and ledger_resolved.jsonl; bytes come from the bulk export, not from a capture"
   },
