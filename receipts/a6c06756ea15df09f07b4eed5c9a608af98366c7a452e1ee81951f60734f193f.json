@@ -15,7 +15,7 @@
  "published_at": "2026-11-04T08:34:03-10:00",
  "publication_mode": "single-object (publish_one.py)",
  "resolved_manifest_sha256": "d262cec12c58cd0217e36f895f5405f5f1a3c14b3a7b69026b4fa6e24ea0abb7",
- "publication_view_sha256": "97215fbd64df5243410661a3e80dd788610041b5f5dce70eb319953cdf0eea1f",
+ "publication_view_sha256": "0da1d6ef60e460e218e54b418ed977466824306c1cc5b53cac638195979d2715",
  "source": "JIMS",
  "view_source": "capturer",
  "rendition": null,
@@ -31,5 +31,11 @@
   "captured_at": "2026-11-04T08:24:10.932959-10:00"
  },
  "capture_receipt_path": "a6c06756ea15df09f07b4eed5c9a608af98366c7a452e1ee81951f60734f193f.receipt.json",
- "capture_receipt_sha256": "70a6fb163849303a7025d9c43dcd278d46ba22d9684dd8330c396be7ea5541a1"
+ "capture_receipt_sha256": "70a6fb163849303a7025d9c43dcd278d46ba22d9684dd8330c396be7ea5541a1",
+ "supersedes": {
+  "reason": "re-pin to the rebuilt publication view",
+  "previous_receipt_sha256": "8e3487cb25945165bf48b66024b62be3a323ef3fa2ae1e7043e00f264db42688",
+  "previous_receipt_path": "receipts/a6c06756ea15df09f07b4eed5c9a608af98366c7a452e1ee81951f60734f193f.json"
+ },
+ "view_pin_verified": true
 }
