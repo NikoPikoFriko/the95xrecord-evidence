@@ -3,10 +3,10 @@
 **What this is.** On 2026-11-03 the commit `9f12298` ("Publish 80 evidence documents under content
 addresses") published 80 documents to this repository as content-addressed bytes. That export predates the
 capture procedure: the files were imported in bulk from the evidence export, not captured from JIMS through
-the station's browser flow. **37 of those 80 files are still here with no receipt and no ledger entry.**
+the station's browser flow. **34 of those 80 files are still here with no receipt and no ledger entry** (three of the original 37 later acquired capture receipts and are published normally).
 
 **Why they have no receipt.** A receipt is a record of a *capture*: a browser download carrying a
-`Zone.Identifier` ADS with the JIMS `HostUrl`, a page-1 case gate, and a capture-ledger row. For these 37
+`Zone.Identifier` ADS with the JIMS `HostUrl`, a page-1 case gate, and a capture-ledger row. For these 34
 objects none of that ever existed:
 
 * no receipt has ever been committed for them (`git log --all -- receipts/<sha>.json` is empty);
@@ -32,7 +32,7 @@ construction:
 * an orphan **not** listed → `bytes-without-receipt` FAIL (the T80 incident class);
 * a listed object that **later gains a receipt** → consistency error: it cannot be both a legacy exception
   and a capture — remove it from this list rather than keeping the exception;
-* the count is reported on every run as `known legacy exceptions: 37`.
+* the count is reported on every run as `known legacy exceptions: 34`.
 
 Files: [`LEGACY_EXPORT.json`](LEGACY_EXPORT.json) (machine-readable, one entry per object) ·
 `LEGACY_EXPORT.md` (this page).
