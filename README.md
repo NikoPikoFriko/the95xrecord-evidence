@@ -75,6 +75,8 @@ the URL works anonymously today. The bytes themselves are proven separately and 
 their SHA-256. Receipts are append-only; a correction is a new receipt that names the one it supersedes.
 See [`RECEIPTS.md`](RECEIPTS.md).
 
+**Absence rows are explicit non-documents; they are not evidence of a court document.** `receipts/ledger.json` lists rows for which nothing was captured — a `NO-PDF` row, a blocked row, or a row voided by an audit correction. Each carries `kind: "ABSENCE-NOT-A-DOCUMENT"` and a reason, and deliberately carries **no** sha256, bytes, court URL or page count, so it can never be mistaken for an object. Absence is published so that a gap is visible rather than implied.
+
 **The capture invariant:** *a document captured once with a court receipt is published permanently, and every
 later run skips what is already in `captures/ledger.jsonl` — nothing is ever re-fetched from the court or
 re-published.* If the same document later arrives with **different bytes**, that is a **new** ledger entry marked

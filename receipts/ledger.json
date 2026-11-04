@@ -1,271 +1,401 @@
 {
- "count": 44,
- "note": "rows that did NOT become receipts: failed captures, no-document rows, or rows whose court URL could not be established. Absence is recorded, never filled with an invented receipt.",
- "rows": {
-  "a2e02a84fc869506ebfeab0e940e3f593d7c7eb362260382961834de2a0965ad": {
+ "absent": [
+  {
+   "code": "*MINH",
+   "dkt": "13",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 1,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "14",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 2,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "50",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 3,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "53",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 4,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "94",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 5,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "106",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 6,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "138",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 7,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "170",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 8,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "171",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 9,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "199",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 10,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "206",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 11,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "218",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 12,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "222",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 13,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "228",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 14,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "274",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 15,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "293",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 16,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "294",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 17,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "315",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 18,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "316",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 19,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "328",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 20,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "348",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 21,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "349",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 22,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "350",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 23,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "351",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 24,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "363",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 25,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "364",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 26,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "369",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 27,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "372",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 28,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "385",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 29,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "409",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 30,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "422",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 31,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "480",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 32,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "481",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 33,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "486",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 34,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": "*MINH",
+   "dkt": "487",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 35,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": null,
+   "dkt": "7",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 36,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": null,
+   "dkt": "9",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 37,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": null,
+   "dkt": "14",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 38,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": null,
+   "dkt": "15",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 39,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": null,
+   "dkt": "16",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 40,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": null,
+   "dkt": "17",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 41,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": null,
+   "dkt": "18",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 42,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
+   "code": null,
+   "dkt": "19",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 43,
+   "reason": "no document rendition exposed by JIMS (NO-PDF)",
+   "status": "NO-PDF"
+  },
+  {
    "code": "C",
-   "docket": 396,
-   "reason": "court URL is not a DocumentRetrieval/CertifiedDocumentRetrieval servlet (not court-origin) - refused",
-   "status": "captured"
+   "dkt": "396",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 44,
+   "reason": "VOID: CAPTURED without a verifiable artefact: no staged file, empty court_url and/or bytes=null (TEXT-ONLY conversion). Audit T60 K3/K9/K10, re-audit R8b.",
+   "status": "CAPTURED",
+   "voided_by": "TEMPLE/captures/ledger_corrections.v2.jsonl"
   },
-  "bd9b10bf631a688f476ff052bfec90cd2d55e4bfac79b53a268d09a0e1b0ec24": {
+  {
    "code": "E",
-   "docket": 398,
-   "reason": "court URL is not a DocumentRetrieval/CertifiedDocumentRetrieval servlet (not court-origin) - refused",
-   "status": "captured"
+   "dkt": "398",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 45,
+   "reason": "VOID: CAPTURED without a verifiable artefact: no staged file, empty court_url and/or bytes=null (TEXT-ONLY conversion). Audit T60 K3/K9/K10, re-audit R8b.",
+   "status": "CAPTURED",
+   "voided_by": "TEMPLE/captures/ledger_corrections.v2.jsonl"
   },
-  "no-sha/106/row": {
-   "code": "*MINH",
-   "docket": 106,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
+  {
+   "code": "ROS",
+   "dkt": "2",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 47,
+   "reason": "VOID: WRONG-ATTRIBUTION: bytes are dkt 1 CMP (page 1 = COMPLAINT); hidden documentURLHidden still held dkt 1's URL when row 2 was clicked. Audit T60 K7/K8, re-audit R7.",
+   "status": "CAPTURED",
+   "voided_by": "TEMPLE/captures/ledger_corrections.v2.jsonl"
   },
-  "no-sha/13/row": {
-   "code": "*MINH",
-   "docket": 13,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/138/row": {
-   "code": "*MINH",
-   "docket": 138,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/14/row": {
-   "code": "*MINH",
-   "docket": 14,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/15/row": {
-   "code": null,
-   "docket": 15,
-   "reason": "already in the capture ledger - not fetched again (no-refetch rule)",
-   "status": "already-captured"
-  },
-  "no-sha/16/row": {
-   "code": null,
-   "docket": 16,
-   "reason": "already in the capture ledger - not fetched again (no-refetch rule)",
-   "status": "already-captured"
-  },
-  "no-sha/17/row": {
-   "code": null,
-   "docket": 17,
-   "reason": "already in the capture ledger - not fetched again (no-refetch rule)",
-   "status": "already-captured"
-  },
-  "no-sha/170/row": {
-   "code": "*MINH",
-   "docket": 170,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/171/row": {
-   "code": "*MINH",
-   "docket": 171,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/18/row": {
-   "code": null,
-   "docket": 18,
-   "reason": "already in the capture ledger - not fetched again (no-refetch rule)",
-   "status": "already-captured"
-  },
-  "no-sha/19/row": {
-   "code": null,
-   "docket": 19,
-   "reason": "already in the capture ledger - not fetched again (no-refetch rule)",
-   "status": "already-captured"
-  },
-  "no-sha/199/row": {
-   "code": "*MINH",
-   "docket": 199,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/206/row": {
-   "code": "*MINH",
-   "docket": 206,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/218/row": {
-   "code": "*MINH",
-   "docket": 218,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/222/row": {
-   "code": "*MINH",
-   "docket": 222,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/228/row": {
-   "code": "*MINH",
-   "docket": 228,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/274/row": {
-   "code": "*MINH",
-   "docket": 274,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/293/row": {
-   "code": "*MINH",
-   "docket": 293,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/294/row": {
-   "code": "*MINH",
-   "docket": 294,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/315/row": {
-   "code": "*MINH",
-   "docket": 315,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/316/row": {
-   "code": "*MINH",
-   "docket": 316,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/328/row": {
-   "code": "*MINH",
-   "docket": 328,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/348/row": {
-   "code": "*MINH",
-   "docket": 348,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/349/row": {
-   "code": "*MINH",
-   "docket": 349,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/350/row": {
-   "code": "*MINH",
-   "docket": 350,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/351/row": {
-   "code": "*MINH",
-   "docket": 351,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/363/row": {
-   "code": "*MINH",
-   "docket": 363,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/364/row": {
-   "code": "*MINH",
-   "docket": 364,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/369/row": {
-   "code": "*MINH",
-   "docket": 369,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/372/row": {
-   "code": "*MINH",
-   "docket": 372,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/385/row": {
-   "code": "*MINH",
-   "docket": 385,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/409/row": {
-   "code": "*MINH",
-   "docket": 409,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/422/row": {
-   "code": "*MINH",
-   "docket": 422,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/480/row": {
-   "code": "*MINH",
-   "docket": 480,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/481/row": {
-   "code": "*MINH",
-   "docket": 481,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/486/row": {
-   "code": "*MINH",
-   "docket": 486,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/487/row": {
-   "code": "*MINH",
-   "docket": 487,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/50/row": {
-   "code": "*MINH",
-   "docket": 50,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/53/row": {
-   "code": "*MINH",
-   "docket": 53,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
-  },
-  "no-sha/7/row": {
-   "code": null,
-   "docket": 7,
-   "reason": "already in the capture ledger - not fetched again (no-refetch rule)",
-   "status": "already-captured"
-  },
-  "no-sha/9/row": {
-   "code": null,
-   "docket": 9,
-   "reason": "already in the capture ledger - not fetched again (no-refetch rule)",
-   "status": "already-captured"
-  },
-  "no-sha/94/row": {
-   "code": "*MINH",
-   "docket": 94,
-   "reason": "notification/minute-entry row exposes no document rendition (no PDF link on the JIMS row); nothing to capture",
-   "status": "no-document"
+  {
+   "code": "ROS",
+   "dkt": "2",
+   "kind": "ABSENCE-NOT-A-DOCUMENT",
+   "ledger_line": 48,
+   "reason": "VOID: WRONG-ATTRIBUTION: bytes are dkt 1 CMP (page 1 = COMPLAINT); hidden documentURLHidden still held dkt 1's URL when row 2 was clicked. Audit T60 K7/K8, re-audit R7.",
+   "status": "BLOCKED",
+   "voided_by": "TEMPLE/captures/ledger_corrections.v2.jsonl"
   }
+ ],
+ "by_kind": {
+  "ABSENCE-NOT-A-DOCUMENT": 47
  },
- "schema": "evidence-receipts-ledger/1"
+ "by_status": {
+  "BLOCKED": 1,
+  "CAPTURED": 3,
+  "NO-PDF": 43
+ },
+ "count": 47,
+ "excluded_from_publication": {
+  "documents": "no entry here is a document; documents live in receipts/ and sha256/",
+  "held_workfile": "held_batch4.json stays internal and is not published"
+ },
+ "note": "absence rows are explicit non-documents; they are not evidence of a court document",
+ "schema": "evidence-receipts-ledger/2",
+ "source": "TEMPLE/captures/ledger.jsonl + ledger_corrections.v2.jsonl",
+ "void_count": 4
 }
