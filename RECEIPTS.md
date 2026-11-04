@@ -123,6 +123,7 @@ declared by the publication view, and the receipts copy those fields verbatim.
 | `1RC191003776:484:MOT` | `80a5edc13c962ceb` | 4 | 762,823 | `-4912384106686638124` | primary |
 | `1RC191003776:451:MOT` | `a6c06756ea15df09` | 18 | 625,537 | `-2894608197161397327` | primary |
 | `1RC191003776:441:MOT` | `b995effe382f146a` | 10 | 133,631 | `147726643068267451` | primary |
+| `1RC191003776:492:DOC` | `6e956ef1189c1092` | 4 | 1,068,894 | `-3575177123423105830` | primary |
 
 6 objects in 3 rendition groups. dkt 9 (1RC191003776) is the case that made
 this table necessary: `6f489905…` is 6 pages and `20ca4fda…` is 2 pages of the same DOC — different
