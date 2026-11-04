@@ -1,0 +1,37 @@
+{
+ "schema": "evidence-receipt/1",
+ "sha256": "46429ea256f90049b9083010fa08e7af116a9e9b4b6a8dd4bdf27ac1b0121e21",
+ "bytes": 156010,
+ "object_path": "sha256/46429ea256f90049b9083010fa08e7af116a9e9b4b6a8dd4bdf27ac1b0121e21.pdf",
+ "case_recorded": "1RC191003776",
+ "docket_recorded": "19",
+ "docket_code_recorded": "MDJ",
+ "filed_recorded": "06-JAN-2020",
+ "pages_recorded": 5,
+ "pages_source": "ledger",
+ "title_recorded": "\"Mot -Default Judg/Summary Judg Thyssenkrupp Elevator Corporation's Motion for Summary Judgment on the Third-Party Compl",
+ "title_source": "jims-row",
+ "batch": "immediate publish after capture",
+ "published_at": "2026-11-04T08:39:21-10:00",
+ "publication_mode": "single-object (publish_one.py)",
+ "resolved_manifest_sha256": "bc95061d60e201c79fb4bc6508efd67ed51690be049e1b9d2c096b44740fd5c5",
+ "publication_view_sha256": "aff12991266f328b8dfa0f79c61478d710ea79034f3ef9e286c1df52f68cdd58",
+ "source": "JIMS",
+ "view_source": "capturer",
+ "rendition": "pending",
+ "rendition_of": [
+  "9c1dcaa8c79079bbd9f81c70ef3b1c0616755047c29705bbeff6beac09f43635"
+ ],
+ "rendition_group": "1RC191003776:19:MDJ",
+ "rendition_count": 2,
+ "rendition_source": "publication_view.jsonl (copied verbatim)",
+ "court": {
+  "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=6028049872815053193",
+  "url_host": "jimspss1.courts.state.hi.us",
+  "servlet": "regular",
+  "ads_verbatim": "[ZoneTransfer]\r\nZoneId=3\r\nReferrerUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface\r\nHostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=6028049872815053193\u0000",
+  "captured_at": "2026-11-04T08:37:22.344125-10:00"
+ },
+ "capture_receipt_path": "46429ea256f90049b9083010fa08e7af116a9e9b4b6a8dd4bdf27ac1b0121e21.receipt.json",
+ "capture_receipt_sha256": "ca99c85c0eb8e36aba752fa70e043bcb3074c0b0501ab8eb860be58c1cfb1906"
+}
