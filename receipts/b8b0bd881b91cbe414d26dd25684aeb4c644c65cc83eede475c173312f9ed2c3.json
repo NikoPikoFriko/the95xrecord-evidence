@@ -1,0 +1,37 @@
+{
+ "schema": "evidence-receipt/1",
+ "sha256": "b8b0bd881b91cbe414d26dd25684aeb4c644c65cc83eede475c173312f9ed2c3",
+ "bytes": 717502,
+ "object_path": "sha256/b8b0bd881b91cbe414d26dd25684aeb4c644c65cc83eede475c173312f9ed2c3.pdf",
+ "case_recorded": "1RC191003776",
+ "docket_recorded": "16",
+ "docket_code_recorded": "NEF",
+ "filed_recorded": "22-NOV-2019",
+ "pages_recorded": 3,
+ "pages_source": "ledger",
+ "title_recorded": null,
+ "title_source": "null",
+ "batch": "immediate publish after capture",
+ "published_at": "2026-11-04T08:12:31-10:00",
+ "publication_mode": "single-object (publish_one.py)",
+ "resolved_manifest_sha256": "738442ac96cad96aa520c154a4b37e77746aa20b157ccf773533e4e8ccbd569a",
+ "publication_view_sha256": "69fdf6f46a3edf5bde4d849323601bae9ba0225fbb373b5cbd4697f59610c362",
+ "source": "JIMS",
+ "view_source": "capturer",
+ "rendition": "pending",
+ "rendition_of": [
+  "4f087de7dedd25f02c73ba3bd10523ab625a787cace7a231ca8b33529ea5842b"
+ ],
+ "rendition_group": "1RC191003776:16:NEF",
+ "rendition_count": 2,
+ "rendition_source": "publication_view.jsonl (copied verbatim)",
+ "court": {
+  "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-4771073404671874446",
+  "url_host": "jimspss1.courts.state.hi.us",
+  "servlet": "regular",
+  "ads_verbatim": "[ZoneTransfer]\r\nZoneId=3\r\nReferrerUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface\r\nHostUrl=https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=-4771073404671874446\u0000",
+  "captured_at": "2026-11-04T08:10:46.486933-10:00"
+ },
+ "capture_receipt_path": "b8b0bd881b91cbe414d26dd25684aeb4c644c65cc83eede475c173312f9ed2c3.receipt.json",
+ "capture_receipt_sha256": "69517384691a1d2db8f245265d47d6769537c4f4a2ac106d696441b200776ac7"
+}
