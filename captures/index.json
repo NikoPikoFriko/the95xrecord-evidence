@@ -1,5 +1,5 @@
 {
- "count": 73,
+ "count": 81,
  "entries": {
   "03b554f572a0afafcbb7bc606be342c8c36699cb3063aaa2fe48d9ac074ad09f": {
    "captured_at": "2026-11-03T22:34:56.378357-10:00",
@@ -37,6 +37,15 @@
    "receipt": "receipts/080b7bfde42b1f4b87ef9b9bc40d51def599592359bc7ef3347400bad9fb59c2.json",
    "status": "captured"
   },
+  "0bdd58e87ccb69d19292708a05eb1552500377fd0da71ad6b702384575e3b6f8": {
+   "captured_at": "2026-11-04T08:24:27.073139-10:00",
+   "case": "1RC191003776",
+   "docket": "468",
+   "kind": "regular",
+   "object": "sha256/0bdd58e87ccb69d19292708a05eb1552500377fd0da71ad6b702384575e3b6f8.pdf",
+   "receipt": "receipts/0bdd58e87ccb69d19292708a05eb1552500377fd0da71ad6b702384575e3b6f8.json",
+   "status": "captured"
+  },
   "0e54f37f8eef46ce0e18b1a21efda99c4a08ceede6faeec22cf0ba8d6659ba83": {
    "captured_at": "2026-11-04T08:11:51.786913-10:00",
    "case": "1RC191003776",
@@ -53,6 +62,15 @@
    "kind": "regular",
    "object": "sha256/0eea41ccb35238b96e2ac734c75cdf65e775523410ae086f44bb6354a058eeba.pdf",
    "receipt": "receipts/0eea41ccb35238b96e2ac734c75cdf65e775523410ae086f44bb6354a058eeba.json",
+   "status": "captured"
+  },
+  "109ddd2a24ccdc53e6b42bff13f457d0e2a980d0e52ab50063f9614c7c5022e1": {
+   "captured_at": "2026-11-04T08:24:41.075748-10:00",
+   "case": "1RC191003776",
+   "docket": "476",
+   "kind": "regular",
+   "object": "sha256/109ddd2a24ccdc53e6b42bff13f457d0e2a980d0e52ab50063f9614c7c5022e1.pdf",
+   "receipt": "receipts/109ddd2a24ccdc53e6b42bff13f457d0e2a980d0e52ab50063f9614c7c5022e1.json",
    "status": "captured"
   },
   "1216f6117eac5e2483716baa25f4575151d40b6771ec1253fe99e96262adf573": {
@@ -286,6 +304,15 @@
    "receipt": "receipts/6f4899057046964ff5c77e0e5a1c27d150f6e32c067c19ebcf51856b2376a5d6.json",
    "status": "captured"
   },
+  "6f7fc7455ddddaa09d4154c0054bc5a4bd0d37bc4d3b414ac865ce17e65d256b": {
+   "captured_at": "2026-11-04T08:26:44.757079-10:00",
+   "case": "1RC191003776",
+   "docket": "461",
+   "kind": "regular",
+   "object": "sha256/6f7fc7455ddddaa09d4154c0054bc5a4bd0d37bc4d3b414ac865ce17e65d256b.pdf",
+   "receipt": "receipts/6f7fc7455ddddaa09d4154c0054bc5a4bd0d37bc4d3b414ac865ce17e65d256b.json",
+   "status": "captured"
+  },
   "72bb68d9ebd2c570164a67d009f46268104c1b64bc450c3a1e7b7cd8485c4f0b": {
    "captured_at": "2026-11-03T19:52:03.2024979-10:00",
    "case": "1RC191003776",
@@ -403,6 +430,15 @@
    "receipt": "receipts/8caeac19dd2101a9ec7d6f8371c46a93a58a4233a9df956c814ec855107f3d14.json",
    "status": "captured"
   },
+  "8d273740bfd1570fe0af78d1b03008e800076903c54371f936e71e1ed044c0eb": {
+   "captured_at": "2026-11-04T08:24:25.786029-10:00",
+   "case": "1RC191003776",
+   "docket": "466",
+   "kind": "regular",
+   "object": "sha256/8d273740bfd1570fe0af78d1b03008e800076903c54371f936e71e1ed044c0eb.pdf",
+   "receipt": "receipts/8d273740bfd1570fe0af78d1b03008e800076903c54371f936e71e1ed044c0eb.json",
+   "status": "captured"
+  },
   "90d0b880e3e2790f67025638d4867404f9bf8c21eff8a221edf153f120663bf0": {
    "captured_at": "2026-11-04T08:12:17.540917-10:00",
    "case": "1RC191003776",
@@ -439,6 +475,15 @@
    "receipt": "receipts/937ceb5dfc2465cb97f2c576c1139fb04ca987f32f797fbc679cc14ad49b80ed.json",
    "status": "captured"
   },
+  "9be1765cb599ba1742b246328d88ce60680f88abf885af48c9a0a5ca228bcdba": {
+   "captured_at": "2026-11-04T08:24:35.144959-10:00",
+   "case": "1RC191003776",
+   "docket": "475",
+   "kind": "regular",
+   "object": "sha256/9be1765cb599ba1742b246328d88ce60680f88abf885af48c9a0a5ca228bcdba.pdf",
+   "receipt": "receipts/9be1765cb599ba1742b246328d88ce60680f88abf885af48c9a0a5ca228bcdba.json",
+   "status": "captured"
+  },
   "9c1dcaa8c79079bbd9f81c70ef3b1c0616755047c29705bbeff6beac09f43635": {
    "captured_at": "2026-11-04T06:46:42.183142-10:00",
    "case": "1RC191003776",
@@ -446,6 +491,15 @@
    "kind": "regular",
    "object": "sha256/9c1dcaa8c79079bbd9f81c70ef3b1c0616755047c29705bbeff6beac09f43635.pdf",
    "receipt": "receipts/9c1dcaa8c79079bbd9f81c70ef3b1c0616755047c29705bbeff6beac09f43635.json",
+   "status": "captured"
+  },
+  "a5c291feebbef9a042e8b66d74b98814da5f79a7ed61d40166b553fcf792d907": {
+   "captured_at": "2026-11-04T08:24:43.036446-10:00",
+   "case": "1RC191003776",
+   "docket": "477",
+   "kind": "regular",
+   "object": "sha256/a5c291feebbef9a042e8b66d74b98814da5f79a7ed61d40166b553fcf792d907.pdf",
+   "receipt": "receipts/a5c291feebbef9a042e8b66d74b98814da5f79a7ed61d40166b553fcf792d907.json",
    "status": "captured"
   },
   "a9cad9b36d8b3a7bbe406358fa63f41d952a92636f694f3d58f834ef1da0bd54": {
@@ -547,6 +601,15 @@
    "receipt": "receipts/cb14cad03b35951aae8d034576607073130ec6dc11b1eaceca811f40ba17db77.json",
    "status": "captured"
   },
+  "cb703f16e8605801e9c983de4ea6dcbc27765812ed6147ca694245aa91da2d28": {
+   "captured_at": "2026-11-04T08:24:23.197630-10:00",
+   "case": "1RC191003776",
+   "docket": "473",
+   "kind": "regular",
+   "object": "sha256/cb703f16e8605801e9c983de4ea6dcbc27765812ed6147ca694245aa91da2d28.pdf",
+   "receipt": "receipts/cb703f16e8605801e9c983de4ea6dcbc27765812ed6147ca694245aa91da2d28.json",
+   "status": "captured"
+  },
   "cbe17d37c4461782e94e20c2cee940eead57df8f8d4a74e14065312f5c9a7889": {
    "captured_at": "2026-11-04T08:12:14.228708-10:00",
    "case": "1RC191003776",
@@ -610,6 +673,15 @@
    "receipt": "receipts/e061f052aa09f8a891db51f94c23bad7efda986ffa0f17dbbc89a3a033edb7e6.json",
    "status": "captured"
   },
+  "e1da55f73f299ee7028524fb450a6febe3dc2109267ad816681f69bc9faffacc": {
+   "captured_at": "2026-11-04T08:24:37.363931-10:00",
+   "case": "1RC191003776",
+   "docket": "474",
+   "kind": "regular",
+   "object": "sha256/e1da55f73f299ee7028524fb450a6febe3dc2109267ad816681f69bc9faffacc.pdf",
+   "receipt": "receipts/e1da55f73f299ee7028524fb450a6febe3dc2109267ad816681f69bc9faffacc.json",
+   "status": "captured"
+  },
   "e8a60c3438e197acd0058bd1deef8d935a313b39c2eb34601f7e8a5e8910134f": {
    "captured_at": "2026-11-04T08:17:15.954681-10:00",
    "case": "1RC191003776",
@@ -666,7 +738,7 @@
   }
  },
  "ledger": "captures/ledger.jsonl",
- "ledger_sha256": "642105616097c7bd7d54865bc9c3d31415d769de3d9cf43c0eb976a2384ed7a7",
+ "ledger_sha256": "0b680b2af36fd3d56302735ccdd1d6dd81da98e0b12a27092cd1ad99cb03c98a",
  "note": "append-only; a re-capture of different bytes creates a new entry that names the superseded one. See README.",
  "schema": "evidence-capture-ledger-index/1"
 }

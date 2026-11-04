@@ -109,6 +109,14 @@ declared by the publication view, and the receipts copy those fields verbatim.
 | `1RC191003776:438:NEF` | `bf976116b27b690c` | 2 | 6,721 | `3029127306147235728` | primary |
 | `1RC191003776:432:MOT` | `3b27f3eadf55a8d5` | 10 | 133,410 | `-6808358543498790237` | primary |
 | `1RC191003776:433:MOT` | `487eaf0cb7cf48af` | 37 | 6,776,950 | `-1141983175788426948` | primary |
+| `1RC191003776:473:NEF` | `cb703f16e8605801` | 2 | 6,956 | `7148816620299916817` | primary |
+| `1RC191003776:466:MOT` | `8d273740bfd1570f` | 2 | 6,351 | `3920425210463038782` | primary |
+| `1RC191003776:468:MOT` | `0bdd58e87ccb69d1` | 7 | 632,503 | `4592066290144680272` | primary |
+| `1RC191003776:475:NEF` | `9be1765cb599ba17` | 2 | 6,937 | `-3652923381126334150` | primary |
+| `1RC191003776:474:MOT` | `e1da55f73f299ee7` | 5 | 230,967 | `7979009138876147612` | primary |
+| `1RC191003776:476:MOT` | `109ddd2a24ccdc53` | 2 | 90,307 | `5512801541774547381` | primary |
+| `1RC191003776:477:NEF` | `a5c291feebbef9a0` | 2 | 6,673 | `368281696223305538` | primary |
+| `1RC191003776:461:MOT` | `6f7fc7455ddddaa0` | 2 | 190,628 | `-310188176449549074` | primary |
 
 6 objects in 3 rendition groups. dkt 9 (1RC191003776) is the case that made
 this table necessary: `6f489905…` is 6 pages and `20ca4fda…` is 2 pages of the same DOC — different
