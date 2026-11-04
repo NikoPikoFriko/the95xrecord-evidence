@@ -1,0 +1,19 @@
+{
+ "count": 2,
+ "note": "rows that did NOT become receipts: failed captures, no-document rows, or rows whose court URL could not be established. Absence is recorded, never filled with an invented receipt.",
+ "rows": {
+  "a2e02a84fc869506ebfeab0e940e3f593d7c7eb362260382961834de2a0965ad": {
+   "code": "C",
+   "docket": 396,
+   "reason": "court URL is not a DocumentRetrieval/CertifiedDocumentRetrieval servlet (not court-origin) - refused",
+   "status": "captured"
+  },
+  "bd9b10bf631a688f476ff052bfec90cd2d55e4bfac79b53a268d09a0e1b0ec24": {
+   "code": "E",
+   "docket": 398,
+   "reason": "court URL is not a DocumentRetrieval/CertifiedDocumentRetrieval servlet (not court-origin) - refused",
+   "status": "captured"
+  }
+ },
+ "schema": "evidence-receipts-ledger/1"
+}
