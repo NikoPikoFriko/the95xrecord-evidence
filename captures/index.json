@@ -1,5 +1,5 @@
 {
- "count": 60,
+ "count": 61,
  "entries": {
   "03b554f572a0afafcbb7bc606be342c8c36699cb3063aaa2fe48d9ac074ad09f": {
    "captured_at": "2026-11-03T22:34:56.378357-10:00",
@@ -92,6 +92,15 @@
    "kind": "certified",
    "object": "sha256/267462accd55e8f6788ab93cc1439f35e529592ce437f543ec8a87c977581a13.pdf",
    "receipt": "receipts/267462accd55e8f6788ab93cc1439f35e529592ce437f543ec8a87c977581a13.json",
+   "status": "captured"
+  },
+  "2696cd9e22cd80ac5f5eb35c8c442bb6a8d0631ec56bdca9485725ea30a40ac5": {
+   "captured_at": "2026-11-04T08:12:05.094608-10:00",
+   "case": "1RC191003776",
+   "docket": "29",
+   "kind": "regular",
+   "object": "sha256/2696cd9e22cd80ac5f5eb35c8c442bb6a8d0631ec56bdca9485725ea30a40ac5.pdf",
+   "receipt": "receipts/2696cd9e22cd80ac5f5eb35c8c442bb6a8d0631ec56bdca9485725ea30a40ac5.json",
    "status": "captured"
   },
   "27369ac930c946fe20679a887dfcfcc96ec73b59a7396f096d33d8adc939441f": {
@@ -549,7 +558,7 @@
   }
  },
  "ledger": "captures/ledger.jsonl",
- "ledger_sha256": "cf3a8f53cefd5ce32212d4027214d3b30dfed4da06edb8249e31220905632597",
+ "ledger_sha256": "eecea31694f6dc6e2fc71d176f1fa89126c806b0912367eb3790540906cf9743",
  "note": "append-only; a re-capture of different bytes creates a new entry that names the superseded one. See README.",
  "schema": "evidence-capture-ledger-index/1"
 }

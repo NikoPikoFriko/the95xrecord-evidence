@@ -1,5 +1,5 @@
 {
- "count": 60,
+ "count": 61,
  "generated_from": "receipts/*.json",
  "note": "servlet urls are session-bound; see RECEIPTS.md",
  "receipts": {
@@ -142,6 +142,20 @@
    "servlet": "certified",
    "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/CertifiedDocumentRetrievalServlet?id=-6025935909910058506",
    "tier": "CERTIFIED"
+  },
+  "2696cd9e22cd80ac5f5eb35c8c442bb6a8d0631ec56bdca9485725ea30a40ac5": {
+   "batch": null,
+   "captured_at": null,
+   "code": "NEF",
+   "docket": "29",
+   "docket_recorded_verbatim": "29",
+   "filed": "13-JAN-2020",
+   "object_path": null,
+   "receipt": "receipts/2696cd9e22cd80ac5f5eb35c8c442bb6a8d0631ec56bdca9485725ea30a40ac5.json",
+   "receipt_sha256": "e23efaca2e008ff8edd933e1b62e3652f929b24674e17062a570ba501d7b6c45",
+   "servlet": "regular",
+   "servlet_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/DocumentRetrievalServlet?id=4017798341672112210",
+   "tier": null
   },
   "27369ac930c946fe20679a887dfcfcc96ec73b59a7396f096d33d8adc939441f": {
    "batch": "0",
