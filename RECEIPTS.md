@@ -68,3 +68,22 @@ independently hash-verifiable; they are simply not *pinned to a retrieval URL*. 
 
 *No credentials or session tokens are stored in this repository. `jims_session` in a receipt is a JIMS UI
 session label as rendered at capture time, not a usable credential.*
+
+## Rendition pairs
+
+One document row can yield more than one set of bytes. Each set is a separate object with its own
+receipt and its own SHA-256; they are NOT duplicates and NOT corrections of each other. The pair is
+declared by the publication view, and the receipts copy those fields verbatim.
+
+| group | sha256 (first 16) | pages | bytes | ADS id | rendition |
+|---|---|---|---|---|---|
+| `1RC191003776:496:` | `5ed5e1968bcfcf28` | - | 380,102 | `-4148043684089643505` | primary |
+| `1RC191003776:496:` | `afda0dbbbd371f6e` | - | 133,136 | `-6724965835921518722` | additional |
+| `1RC191003776:9:DOC` | `20ca4fda20dace9e` | 2 | 797,009 | `2252464258259662806` | primary |
+| `1RC191003776:9:DOC` | `6f4899057046964f` | 6 | 1,409,566 | `-1348131103579714594` | additional |
+| `1RC191003776:ICA:` | `267462accd55e8f6` | - | 27,362 | `-6025935909910058506` | primary |
+| `1RC191003776:ICA:` | `27369ac930c946fe` | - | 6,034 | `1151383558689383108` | additional |
+
+6 objects in 3 rendition groups. dkt 9 (1RC191003776) is the case that made
+this table necessary: `6f489905…` is 6 pages and `20ca4fda…` is 2 pages of the same DOC — different
+bytes, different rendition, each with its own ADS receipt.

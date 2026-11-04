@@ -38,5 +38,19 @@
   "chrome_row": "no matching downloads row (profile other than Default, or history cleared)",
   "usn_row": "no usn match",
   "source_host": "jimspss1.courts.state.hi.us"
+ },
+ "rendition": "additional",
+ "rendition_of": [
+  "5ed5e1968bcfcf28aca91881e5957d9a0e20626858ebaee116f24ee33c88bef6"
+ ],
+ "rendition_group": "1RC191003776:496:",
+ "rendition_count": 2,
+ "rendition_source": "publication_view.jsonl (copied verbatim)",
+ "publication_view_sha256": "a6b490b9efeea957a20c55f3492813fe0361e308c63dec2b0e26d497fa66a269",
+ "resolved_manifest_sha256": "077e0d60e6a1e28df8d29deda0419a42dabf262eccd28b6aa37da42038ae4d9a",
+ "supersedes": {
+  "reason": "aligned to the authoritative publication view: rendition fields copied, pin updated to a6b490b9",
+  "previous_receipt_sha256": "15430fd6c8ab2cff60ac2da7bebf44dd87fc3d2ad805409c1c2a4d4235726ea3",
+  "previous_receipt_path": "receipts/afda0dbbbd371f6e1a27da6f7d57e8b690520a791cc92c4d09dc835c44f1fb83.json"
  }
 }

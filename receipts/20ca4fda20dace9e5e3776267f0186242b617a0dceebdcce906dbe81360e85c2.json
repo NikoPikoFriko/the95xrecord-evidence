@@ -23,11 +23,11 @@
  "case_recorded": "1RC191003776",
  "original_filename": null,
  "resolved_manifest_sha256": "077e0d60e6a1e28df8d29deda0419a42dabf262eccd28b6aa37da42038ae4d9a",
- "publication_view_sha256": "8c0052dbaff494dd4ec631aff41eb3cc6908dc25239281fd4af465126316eb9c",
+ "publication_view_sha256": "a6b490b9efeea957a20c55f3492813fe0361e308c63dec2b0e26d497fa66a269",
  "pages_source": "publication_view",
  "source": "JIMS",
  "view_source": "capturer",
- "rendition": "additional",
+ "rendition": "primary",
  "rendition_of": [
   "6f4899057046964ff5c77e0e5a1c27d150f6e32c067c19ebcf51856b2376a5d6"
  ],
@@ -67,5 +67,13 @@
    "6f4899057046964ff5c77e0e5a1c27d150f6e32c067c19ebcf51856b2376a5d6"
   ],
   "publish_note": "taken from publication_view.jsonl; corrections not re-implemented"
+ },
+ "rendition_group": "1RC191003776:9:DOC",
+ "rendition_count": 2,
+ "rendition_source": "publication_view.jsonl (copied verbatim)",
+ "supersedes": {
+  "reason": "aligned to the authoritative publication view: rendition fields copied, pin updated to a6b490b9",
+  "previous_receipt_sha256": "18cd39fbda9c60c3621e84782aa0f7e778699edde60cf6201a3bb4e0859684c2",
+  "previous_receipt_path": "receipts/20ca4fda20dace9e5e3776267f0186242b617a0dceebdcce906dbe81360e85c2.json"
  }
 }
